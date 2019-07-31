@@ -1,0 +1,94 @@
+
+
+@import "core.sass"
+
+
+// variables
+$fontMain: 'Noto Sans', sans-serif
+$fontBody: normal 11pt/15pt $fontMain
+$fontHeading: 'Nova Flat', cursive
+$border: 1px solid rgb(100,100,100)
+
+
+// page layout
+@page
+	size: A4 landscape
+
+
+section
+	column-count: 3
+	column-gap: 3em
+	column-fill: auto
+	@extend .page-break-avoid
+
+// tags
+body
+	font: $fontBody
+
+h1
+	font-family: $fontHeading
+	letter-spacing: 0.04em
+	font-size: 28pt
+	margin: 2em 0 1em 0
+	text-transform: uppercase
+
+p
+	text-align: left
+	font-size: 0.9em
+	@extend .page-break-avoid
+
+strong
+	text-transform: uppercase
+
+table, td
+	border: $border
+
+table
+	border-collapse: collapse
+	width: 100%
+	@extend .column-break-after
+
+th
+	text-transform: uppercase
+	padding: 0.5em
+	font-family: $fontHeading
+	letter-spacing: 0.02em
+	font-size: 12pt
+
+thead td.box
+	text-transform: uppercase
+	font-size: 8pt
+	padding: 0.1em
+	font-weight: bold
+
+td
+	padding: 0.5em
+
+	&.box
+		text-align: center
+		min-width: 3em
+
+div
+	position: absolute
+	top: 0.1em
+
+	strong
+		font-family: $fontHeading
+		display: inline-block
+		position: relative
+		top: -0.35em
+		left: -0.1em
+
+	span.box
+		border: 1px solid rgb(100,100,100)
+		display: inline-block
+		width: 0.75em
+		height: 1.5em
+
+	&#heat
+		width: 14em
+		right: 10em
+
+	&#wanted
+		width: 10em
+		right: 0
