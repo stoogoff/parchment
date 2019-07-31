@@ -27,7 +27,9 @@ module.exports = Metalsmith(__dirname)
 
 	// add template file based on containing folder
 	.use(each((file, p) => {
-		file.template = path.join("tpl", p.substring(0, p.lastIndexOf("/"))) + ".html";
+		if(!file.template) {
+			file.template = path.join("tpl", p.substring(0, p.lastIndexOf("/"))) + ".html";
+		}
 	}, ".md"))
 
 	// convert from markdown to html

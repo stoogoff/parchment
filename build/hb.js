@@ -14,6 +14,33 @@ Handlebars.registerHelper("makeId", context => {
 	return id(context);
 });
 
+Handlebars.registerHelper("contains", (container, item, options) => {
+	if(container.indexOf && container.indexOf(item) != -1) {
+		return options.fn(this);
+	}
+	else {
+		return options.inverse(this);
+	}
+});
+
+Handlebars.registerHelper("is", (property, value, options) => {
+	if(property === value) {
+		return options.fn(this);
+	}
+	else {
+		return options.inverse(this);
+	}
+});
+
+Handlebars.registerHelper("range", (count, options) => {
+	let buffer = [];
+
+	for(let i = 0; i < count; ++i) {
+		buffer.push(options.fn(this));
+	}
+
+	return buffer.join("");
+});
 
 // store templates
 let templates = {};
