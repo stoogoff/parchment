@@ -14,6 +14,9 @@ $border: 1px solid rgb(100,100,100)
 @page
 	size: A4 landscape
 
+@page galaxy
+	background: white url(../img/space.jpg) bottom right no-repeat
+	background-size: cover
 
 section
 	column-count: 3
@@ -92,3 +95,29 @@ div
 	&#wanted
 		width: 10em
 		right: 0
+
+
+body#galaxy
+	page: galaxy
+
+	h1
+		color: white
+
+	p
+		background-color: rgb(215,210,203)
+		padding: 3em 1em 1em 1em
+		margin: 1em 0
+		border: $border
+		position: relative
+
+		&:before
+			content: "MISSION"
+			color: white
+			background-color: rgb(10,17,16)
+			display: block
+			font-weight: bold
+			padding: 0.3em 1em
+			position: absolute
+			top: 0
+			left: 0
+			right: 0
