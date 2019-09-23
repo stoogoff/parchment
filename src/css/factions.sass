@@ -7,7 +7,11 @@
 $fontMain: 'Noto Sans', sans-serif
 $fontBody: normal 11pt/15pt $fontMain
 $fontHeading: 'Nova Flat', cursive
-$border: 1px solid rgb(100,100,100)
+$colourHeader: rgba(14,0,2,0.9)
+$colourPanel: rgba(lighten(rgb(248,60,8), 25%), 0.7)
+$border: 1px solid $colourHeader
+$borderRadius: 0.5rem
+
 
 
 // page layout
@@ -15,7 +19,7 @@ $border: 1px solid rgb(100,100,100)
 	size: A4 landscape
 
 @page galaxy
-	background: white url(../img/space2.jpg) bottom right no-repeat
+	background: white url(../img/redsky.jpg) bottom right no-repeat
 	background-size: cover
 
 section
@@ -104,16 +108,18 @@ body#galaxy
 		color: white
 
 	p
-		background-color: rgba(179,161,174,0.9)
+		background-color: $colourPanel
 		padding: 3em 1em 1em 1em
 		margin: 1em 0
 		border: $border
 		position: relative
+		border-radius: $borderRadius
 
 		&:before
 			content: "MISSION"
 			color: white
-			background-color: rgb(10,17,16)
+			background-color: $colourHeader
+			border-radius: $borderRadius $borderRadius 0 0
 			display: block
 			font-weight: bold
 			padding: 0.3em 1em
