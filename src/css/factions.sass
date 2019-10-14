@@ -7,20 +7,21 @@
 $fontMain: 'Noto Sans', sans-serif
 $fontBody: normal 11pt/15pt $fontMain
 $fontHeading: 'Nova Flat', cursive
-$colourHeader: rgba(14,0,2,0.9)
-$colourPanel: rgba(lighten(rgb(248,60,8), 25%), 0.7)
-$border: 1px solid $colourHeader
 $borderRadius: 0.5rem
-
-
+$border: 1px solid
 
 // page layout
 @page
 	size: A4 landscape
 
-@page galaxy
+@page redsky
 	background: white url(../img/redsky.jpg) bottom right no-repeat
 	background-size: cover
+
+@page galaxy
+	background: white url(../img/space.jpg) bottom right no-repeat
+	background-size: cover
+
 
 section
 	column-count: 3
@@ -100,30 +101,50 @@ div
 		width: 10em
 		right: 0
 
-
-body#galaxy
-	page: galaxy
-
+body.jobs
 	h1
 		color: white
 
 	p
-		background-color: $colourPanel
 		padding: 3em 1em 1em 1em
 		margin: 1em 0
-		border: $border
 		position: relative
 		border-radius: $borderRadius
 
 		&:before
 			content: "MISSION"
 			color: white
-			background-color: $colourHeader
-			border-radius: $borderRadius $borderRadius 0 0
 			display: block
 			font-weight: bold
 			padding: 0.3em 1em
+			border-radius: $borderRadius $borderRadius 0 0
 			position: absolute
 			top: 0
 			left: 0
 			right: 0
+
+#redsky
+	$colourHeader: rgba(14,0,2,0.9)
+	$colourPanel: rgba(lighten(rgb(248,60,8), 25%), 0.7)
+
+	page: redsky
+
+	p
+		background-color: $colourPanel
+		border: $border $colourHeader
+
+		&:before
+			background-color: $colourHeader
+
+#galaxy
+	$colourHeader: rgb(10,17,16)
+	$colourPanel: rgb(215,210,203)
+
+	page: galaxy
+
+	p
+		background-color: $colourPanel
+		border: $border $colourHeader
+
+		&:before
+			background-color: $colourHeader
