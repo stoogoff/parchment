@@ -1,0 +1,244 @@
+
+
+$pageTop: 60mm
+$fontMargins: 11pt "Playfair Display"
+
+
+
+// PDF page layouts
+@page
+	size: A5 portrait
+	margin: 3cm 1.9cm 2.54cm
+	margin-inside: 2.54cm
+
+@page :left
+	@top
+		content: "The Casebook of the Aletheian Society"
+		font: $fontMargins
+		text-transform: uppercase
+		padding-top: 1.27cm
+
+	@bottom-left
+		font: $fontMargins
+		content: counter(page)
+
+@page :right
+	@top
+		content: string(title)
+		font: $fontMargins
+		text-transform: uppercase
+		padding-top: 1.27cm
+
+	@bottom-right
+		font: $fontMargins
+		content: counter(page)
+
+@page :blank
+	@top
+		content: normal
+
+@page front-matter
+	@top
+		content: normal
+
+	@bottom-left
+		content: normal
+
+	@bottom-right
+		content: normal
+
+
+$chapters: "7", "12", "22", "44", "66", "82", "106", "132", "164"
+
+@each $chapter in $chapters
+	@page :nth(#{$chapter})
+		@top
+			content: normal
+
+
+// general styles
+body
+	font: 12pt/1.15 "Times New Roman"
+	text-align: left
+	color: black
+
+img
+	max-width: 100%
+
+h1.uppercase
+	font: 30pt "Playfair Display"
+	text-transform: uppercase
+	text-align: center
+	margin-bottom: 2em
+
+header
+	padding-top: $pageTop
+	break-after: page
+
+	h1
+		string-set: title content()
+		padding: 0
+		font-size: 30pt
+		font-family: "Great Vibes"
+		font-weight: normal
+		text-align: center
+
+	h2
+		font-weight: normal
+		font-size: 12pt
+		font-family: "Playfair Display"
+		text-align: center
+
+article
+	margin-top: $pageTop
+
+	p
+		margin: 0
+		text-indent: 0.63cm
+		widows: 2
+		orphans: 2
+
+	p:first-of-type, h3+p
+		text-indent: 0
+
+		&:first-letter
+			font-size: 24pt
+
+	blockquote
+		font-style: italic
+		break-after: avoid
+		margin-bottom: 0.5em
+
+		&:first-child
+			margin-left: 0
+
+		p:first-letter
+			font-size: 12pt !important
+
+		&+p:first-letter
+			font-size: 24pt
+
+	h3
+		font-size: 12pt
+		font-family: "Playfair Display"
+		font-weight: normal
+		text-align: center
+		margin-bottom: 2em
+		margin-top: $pageTop
+		break-before: page
+
+figcaption
+	font-style: italic
+	text-indent: -0.5em
+	text-align: center
+
+	&:before
+		font-size: 16pt
+		content: "“"
+
+	&:after
+		font-size: 16pt
+		content: "”"
+
+hr
+	border: 0
+
+	&:after
+		content: "***" // change this
+		display: block
+		text-align: center
+		padding: 0.5em
+		break-before: avoid-page
+
+.shadow-factories
+	font: 18pt "Great Vibes"
+
+.we-evolve
+	font: 10pt "Comfortaa"
+
+
+// page layouts
+article
+	page: article
+
+section.front-matter, header, figure
+	page: front-matter
+	break-after: page
+
+section.story
+	page: story
+	break-before: left
+
+// page specific styles
+#title-page
+	text-align: center
+
+	h1
+		font: 24pt "Great Vibes"
+		margin-bottom: 9em
+
+		span
+			display: block
+			font: 22pt "Playfair Display"
+			text-transform: uppercase
+
+	p
+		margin: 6em 2em 1em
+		font: 10pt "Playfair Display"
+
+		&:last-child
+			margin-top: 0.5em
+			font-size: 14pt
+
+
+#copyright p
+	text-align: center
+
+	&:first-child
+		margin-top: 4em
+
+#toc
+	break-before: right
+	prince-pdf-tag-type: TOC
+
+	ol
+		list-style-type: none
+		margin: 0
+		padding: 0
+		page-break-inside: auto
+
+	li
+		margin: 0
+		padding: 0.3em 0
+
+		&.foreword, &.the-tale-of-petherham-hall
+			margin-bottom: 2em
+
+	a
+		text-decoration: none
+		color: black
+		font: 12pt "Playfair Display"
+
+	a:after
+		content: leader(" .") " " target-counter(attr(href, url), page)
+
+
+#foreword
+	break-before: right
+
+	header
+		padding-top: 0
+		page: article
+		break-after: avoid
+
+		h1
+			font-family: "Playfair Display"
+			text-transform: uppercase
+
+	article
+		margin-top: 0
+
+	span
+		font: 18pt "Great Vibes"
+		display: block
+		padding: 1em 0

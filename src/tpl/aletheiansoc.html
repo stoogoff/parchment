@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="Tales from the Aletheian Society" />
+<title>{{{ title }}}</title>
+<link href="https://fonts.googleapis.com/css?family=Comfortaa|Great+Vibes|Playfair+Display&display=swap" rel="stylesheet" />
+<link href="css/aletheiansoc.css" rel="stylesheet" />
+</head>
+<body>
+
+<section id="{{makeId title}}" class="story">
+	{{#if image}}
+		<figure>
+			<img src="img/aletheiansoc/{{ image }}" alt="{{ title }}" />
+			<figcaption>{{ caption }}</figcaption>
+		</figure>
+	{{/if}}
+	<header>
+		<h1>{{{ title }}}</h1>
+		<h2>{{{ author }}}</h2>
+	</header>
+	<article>
+		{{{ contents }}}
+	</article>
+</section>
+
+</body>
+</html>
