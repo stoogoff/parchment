@@ -13,6 +13,7 @@ const sass = require("metalsmith-sass");
 const each = require("./each");
 const is = require("./is");
 const hb = require("./hb");
+const collections = require("./collections");
 
 
 const DESTINATION = "../dist";
@@ -24,10 +25,11 @@ module.exports = Metalsmith(__dirname)
 	.destination(DESTINATION)
 
 	.use(drafts())
+	.use(collections())
 
 	// add template file based on containing folder
 	.use(each((file, p) => {
-		if(!file.template) {
+		if(!file.template && !file.collection) {
 			file.template = path.join("tpl", p.substring(0, p.lastIndexOf("/"))) + ".html";
 		}
 	}, ".md"))

@@ -4,6 +4,8 @@ title: Job Postings
 
 Private military contractors required. **4 CRED** payment. Contact through **Free League** hub office on the **Monolith**.
 
+**Colonial Agency** seeks crew for pest control. **6 CRED** payment. Contact through offices on station **CA-176**, **Xene orbit**.
+
 **Zenithian Hegemony** seeks crew to track down members of terrorist cell located primarily within **The Belt**. **2 CRED** payment per cell leader brought in alive. Contact through your local authority for more information.
 
 **Under the Lotus Art Supplies** seeks discrete, private, transport to the **Odacon System**. **6 CRED** payment. Contact through offices on **Coriolis**.
