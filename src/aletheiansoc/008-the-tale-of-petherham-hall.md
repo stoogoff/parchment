@@ -60,7 +60,6 @@ William considered his response while he pulled on his jacket and wedged his hat
 
 He gave Julia an unreadable look, pausing as if he might say something else, but then changed his mind. He slid the carriage door open and paused for a moment, feet planted firmly against the swaying of the train.“But hopefully it'll have nowt to do with all that, and we'll be on our way t'join t'others in t'morning. Mebbe she's changed her mind. Either way, I'm off t'find Ambrose and make sure he's not annoying anyone. You might want t'have a nap, lass. We'll be in Leeds soon enough, and somethin' tells me we'll neither of us be getting' much sleep once we reach t'house.”
 
-
 ### II. Leeds
 
 Leeds was crowded and dirty. There was a man waiting, and William arranged for some porters to transfer their luggage to his carriage. Julia was traveling light – everything packed in a trunk that had belonged to her father – and William rarely bothered to bring more than a case and his medical bag no matter how far they were traveling. Lord Havelock on the other hand seemed to have brought everything bar the kitchen sink. 
@@ -96,9 +95,6 @@ The Chaptermaster frowned at her, looking a little surprised.
 Julia opened her mouth to say something sharp, thought better of it, and went back to her knitting. It was no easy proposition given how the carriage bounced and jolted but she persevered.
 
 They spent the rest of the journey in silence, the only sounds an occasional muttered outburst from Mister Blaylock, and William’s regular, heavy snoring.
-
-
-
 
 ### III. A Cool Reception
 
@@ -212,10 +208,6 @@ She looked down at her hands, then back up, meeting Lord Havelock's gaze steadil
 
 “Please, Ambrose,” she said. “If ever you loved my husband — I am begging you — help my son.”
 
-
-### 
-
-
 ### IV. Young Georgie
 
 Georgie was sitting up in bed. He seemed lost in the pillows, his shock of black hair a stark  contrast to the wan paleness of his skin. His arms were outside the coverlet, and white bandages poked out from the sleeves of his pyjama jacket. His eyes were closed, but fluttered open as the company entered his bedroom. 
@@ -260,8 +252,9 @@ Vicious little circles, each no larger than a sixpence, covered his skin in a ma
 
 “Might as well take care of both at the same time then.” William set to work, carefully removing the dressing from the other arm, sponging both, and applying new bandages. Georgie winced several times, but remained quiet throughout.
 
-“Good lad,” said William approvingly when he was finished, and tousled the patient's hair. He turned to Lady Petherham. “I've a few other questions, you Ladyship. Can we step out into t'hall for a spell? \
-	She looked unhappy, but Lady Petherham nodded and the two left. As the door swung shut, Lord Havelock moved across to sit in the chair their hostess had just vacated.
+“Good lad,” said William approvingly when he was finished, and tousled the patient's hair. He turned to Lady Petherham. “I've a few other questions, you Ladyship. Can we step out into t'hall for a spell?"
+
+She looked unhappy, but Lady Petherham nodded and the two left. As the door swung shut, Lord Havelock moved across to sit in the chair their hostess had just vacated.
 
 “Did you really know Father?” asked Georgie weakly.
 
@@ -333,7 +326,8 @@ She mimed as she spoke.
 
 “To see what would happen, obviously.” she replied as if the question was the stupidest she'd heard all day.
 
-“Octopus,” said William shaking his shaggy head. “On top of that, t’lad's not sleeping properly that much is clear. He's got no appetite either, and that worries me more. He's wasting away. You know what that means.” \
+“Octopus,” said William shaking his shaggy head. “On top of that, t’lad's not sleeping properly that much is clear. He's got no appetite either, and that worries me more. He's wasting away. You know what that means.”
+
 “You think something is preying on him then, Bill?” Havelock did not look surprised. William nodded.
 
 “Aye. Reckon it might be like that Whitby business all over again mebbe. Anyroadup, there's no other obvious marks on t'lads body as I could make out. Oh, but t’mother tells me he's been throwing up. Not t’food as such—but it sounds like he's finding it hard to keep any drink inside him. Which is odd because there's no signs of dehydration or owt. Then there's t'nightmares.”
@@ -371,11 +365,6 @@ The contents of the bag, spilled out onto the sill, turned out to be an amount o
 “Do these things ever work?” asked William.
 
 “Rarely. In my experience it all depends on how heavy the charm is, and how hard you hit someone with it.” said Havelock, humourlessly.
-
-
-
-
-
 
 ### V. A Hot Meal
 
@@ -453,9 +442,6 @@ Havelock started to say something but then thought better of it.
 
 With that, she swept out of the room without a backward glance.
 
-
-
-
 ### VI. Preparation
 
 They rearranged the furniture in Georgie's room after dinner. 
@@ -464,16 +450,19 @@ They'd dragged the bed into the middle of the room and fetched two extra armchai
 
 Once everything was in position, Julia drew an unbroken ring of salt around the bed—rock salt, from her case—and placed silver coins and old iron nails around the perimeter. Georgie was sitting up in bed, drinking hot milk and honey, and watching everything with wide eyes. There was a little colour in his cheeks at all the excitement, but that just made him look feverish. Albert stood in the doorway and watched. He looked worried, and a little lost.
 
-“Aren't you going to do a chant?” he asked when she'd finished. “Invoke some guardian angels or something?” \
-	“No.” Julia replied shortly. Havelock snorted, and pretended to read his book. 
+“Aren't you going to do a chant?” he asked when she'd finished. “Invoke some guardian angels or something?”
+
+“No.” Julia replied shortly. Havelock snorted, and pretended to read his book. 
 
 “I could sit up with you,” the young man had offered, speaking slowly. “Take my turn at watching?” All of Albert's careless bravado had fallen away. He twiddled nervously with the top button of his shirt with one hand, the other thrust into the pocket of his trousers. 
 
-“That's quite all right,” Julia had replied, stepping carefully out of the circle and hitching up her skirts as she did so to ensure that the line remained unbroken. “I think the best thing you can do now is get some sleep.” \
-	She had shut the door firmly in his face, then stood there for a few moments listening. After a minute or so, his footsteps faded down the corridor and Julia stepped back into the circle again.
+“That's quite all right,” Julia had replied, stepping carefully out of the circle and hitching up her skirts as she did so to ensure that the line remained unbroken. “I think the best thing you can do now is get some sleep.”
 
-“He just wants to help,” said Havelock. \
-	“I'm sure he does,” she replied a little primly. “But he's likely to be more hindrance than assistance if anything does happen.”
+She had shut the door firmly in his face, then stood there for a few moments listening. After a minute or so, his footsteps faded down the corridor and Julia stepped back into the circle again.
+
+“He just wants to help,” said Havelock.
+
+“I'm sure he does,” she replied a little primly. “But he's likely to be more hindrance than assistance if anything does happen.”
 
 “Perhaps.” Havelock pursed his lips as if he was going to say more, but thought better of it.
 
@@ -481,19 +470,13 @@ Julia might have said more herself, but she was suddenly aware of Georgie watchi
 
 “What are you reading?” asked Georgie, a little sleepily. 
 
-“It's research.” Havelock showed him the cover of the little clapboard book: Tales of the Yorkshire Dales. “Stories from all over Yorkshire going back hundreds of years. Would you like to hear one? \
-	Georgie nodded. As Julia and William settled down into their chairs, Havelock began to read the story of Lake Gormire in a quiet, sonorous voice. By the time the Abbot had turned out to be the devil and the foolish Lord had plunged off White Mare Cliff to his death, Georgie was sound asleep.
+“It's research.” Havelock showed him the cover of the little clapboard book: Tales of the Yorkshire Dales. “Stories from all over Yorkshire going back hundreds of years. Would you like to hear one?
+
+Georgie nodded. As Julia and William settled down into their chairs, Havelock began to read the story of Lake Gormire in a quiet, sonorous voice. By the time the Abbot had turned out to be the devil and the foolish Lord had plunged off White Mare Cliff to his death, Georgie was sound asleep.
 
 “You'll ‘ave given t'boy nightmares,” commented William.
 
 “Right now I doubt a bedtime story is going to hold a candle to what's already happening,” Havelock replied. They were both whispering so as not to disturb the boy. “And anyway, a  lesson about foolish pride and not taking people at face value is always useful for a growing lad.”
-
-
-### 
-
-
-### 
-
 
 ### VII. A Visitation
 
@@ -511,17 +494,21 @@ Havelock looked pointedly at William and raised an eyebrow. The doctor was wrapp
 
 “He doesn't count,” she whispered back. “I swear he could sleep through a brass band.”
 
-“I've known him to sleep through artillery barrages,” smiled Havelock. “A grandfather clock and the threat of malign incursion from the nether realms can hardly compete. \
-	Julia shifted in her seat and covered a yawn. Havelock hadn't moved from the seat next to the boy's bed; the book he had been reading lay face-down on the bedside table next to the dimly flickering lamp.
+“I've known him to sleep through artillery barrages,” smiled Havelock. “A grandfather clock and the threat of malign incursion from the nether realms can hardly compete.
+
+Julia shifted in her seat and covered a yawn. Havelock hadn't moved from the seat next to the boy's bed; the book he had been reading lay face-down on the bedside table next to the dimly flickering lamp.
 
 Georgie was asleep, but he did not seem to be getting much rest. His wan face glistened with sweat, his brows furrowed, and he turned his head from side to side muttering occasionally. Julia stood, stretched, and moved across to lay a careful hand on his forehead. It was cold and clammy, his eyes flicking back and forth behind his eyelids.
 
 “How long has he been like this?” she asked.
 
-“About half an hour,” Havelock whispered back. “It's hard to tell if these are nightmares or something more sinister.” \
-	“Have you tried waking him?” \
-	“Not yet. He doesn't seem to be in any immediate danger and we're here to learn as much as we can.” \
-	Julia wasn't entirely happy, but didn't challenge him, turning instead to examine the ring of salt.
+“About half an hour,” Havelock whispered back. “It's hard to tell if these are nightmares or something more sinister.” 
+
+“Have you tried waking him?” 
+
+“Not yet. He doesn't seem to be in any immediate danger and we're here to learn as much as we can.” 
+
+Julia wasn't entirely happy, but didn't challenge him, turning instead to examine the ring of salt.
 
 “Why didn't you want young Albert to stay?” Havelock asked suddenly.
 
@@ -553,9 +540,11 @@ The youngest Petherham boy was sat bolt upright in bed. His eyes were still clos
 
 William immediately tried to move to his side. “What the bleedin' heck!” he ejaculated – but his voice was muted as if he were on the far side of the room rather than no more than arm's reach from his companions. “I can't barely move! What's goin' on, by the Devil!” It was true. It was as if the air was thickening by the moment—trying to move was like wading through treacle. 
 
-“The light!” cried Havelock. It was getting darker; the lamp was still lit but the circle of light it provided was shrinking. \
-	“My case!” Julia turned in slow motion, her skirts and her hair spreading and twisting around her in an unnatural way as she forced herself through the gelid atmosphere toward her chair. “There's a candle—” \
-	“Oh my God,” said Havelock quietly, gazing past them both, eyes wide and mouth hanging open in horror. As Julia grabbed the white candle out of one of the inner pockets, she turned to look.
+“The light!” cried Havelock. It was getting darker; the lamp was still lit but the circle of light it provided was shrinking. 
+
+“My case!” Julia turned in slow motion, her skirts and her hair spreading and twisting around her in an unnatural way as she forced herself through the gelid atmosphere toward her chair. “There's a candle—” 
+
+“Oh my God,” said Havelock quietly, gazing past them both, eyes wide and mouth hanging open in horror. As Julia grabbed the white candle out of one of the inner pockets, she turned to look.
 
 The far wall of the bedroom was just… gone. From corner to corner, there was nothing there. Or not gone, not really. She should have been looking into the adjoining bedroom but instead there was only darkness, an utterly profound blackness that seemed to be sucking in all illumination from the room. Worse, it seemed to be spreading, pouring into the room as the light from the lamp shrank down to a ring barrely illuminating the table on which it stood.
 
@@ -673,9 +662,6 @@ Albert tried to ask him something but he held up his hand to forestall further i
 
 Without another word Lord Havelock limped off along the hall, exuding an unshakable conviction that he would all do as he instructed. And they all did.
 
-
-
-
 ### VIII. Aftermath
 
 It had been close to one in the morning when William joined them in the kitchen, looking tired. He'd made a half-hearted attempt to wash the blood from his face and hands, but his shirt was soaked through, and it seemed he’d abandoned.his jacket and waistcoat already.
@@ -688,8 +674,9 @@ Nobody was entirely happy with this suggestion, but William insisted, and when a
 
 They held a council of war in William's room as the clock buried in the recesses of the house dutifully chimed three in the morning. It reminded Julia incongruously of her brief time at school; conspiratorial meetings by candlelight after everyone was supposed to be tucked up in bed, half a dozen girls giggling and whispering, packed into a tiny garret room. There was precious little giggling now, however.
 
-Havelock sat next to William on the bed, his shirt untucked and his arm raised, wincing as the Yorkshireman carefully poked at his side. \
-	“You're lucky,” was William's verdict. “Nowt's broken.”
+Havelock sat next to William on the bed, his shirt untucked and his arm raised, wincing as the Yorkshireman carefully poked at his side. 
+
+“You're lucky,” was William's verdict. “Nowt's broken.”
 
 He'd already examined Julia, making sure she could follow a finger and asking her a few stupid questions to reassure himself that she did not have a concussion.
 
@@ -795,10 +782,8 @@ She shrugged.
 
 “I'll see you both in the morning,” she said cooly, and left the two of them sat on the bed together.
 
-
 ### IX. The Grand Tour
 
- \
 Breakfast was a fairly rough-and-ready affair, given Mrs Blaylock had taken to her bed following the previous night's excitement. Once it was clear they were going to have to shift for themselves, William took charge and arranged rashers of bacon, fried eggs, and chunks of only partially-burnt toast. He did so with a cheerfulness that was only a little jarring.
 
 Lady Petherham did not join them. Ambrose prepared a tray and took it up to her room. By the time he returned, looking wan and tired, the others had mostly finished. He leaned against the counter near the back door and poured himself a cup of tea and stood for some moments swirling it in his hands before drinking it with a sigh.
@@ -953,16 +938,15 @@ There was no such reaction. For a moment it looked as if he was going to say som
 
 “Shall I show you the rockery?” he said. “It's very fine. Victor and I helped Mr Blaylock put it in last summer.”
 
-
 ### X. To the Summer House
 
- \
 Mrs Blaylock was still indisposed. The three Society members met up in the kitchen for cold cuts and another cup of tea, where they made small talk until Albert excused himself to go and sit with Georgie.
 
 As soon as the boy had left, William turned the them with a grim expression. “I've found something,” he said. “Too hard to explain, you'll need t'see it for yourself.”
 
-“Really?” \
-	“No,” he said, deadpan. “It's just that there's a hidden vault under the summerhouse with a load of nasty looking books and trinkets. But you'll still want to come see for yourself so….”
+“Really?” 
+
+“No,” he said, deadpan. “It's just that there's a hidden vault under the summerhouse with a load of nasty looking books and trinkets. But you'll still want to come see for yourself so….”
 
 As they left the kitchen, Julia added quietly,“Albert knows something, but I don't know what. At the very least he at last suspects the existence of the Society and that his father was involved. His Uncle too. He's pretty clearly feeling guilty about something. Frankly, I think he's up to his neck in whatever is going on here.” 
 
@@ -1011,11 +995,6 @@ The big doctor hefted his crowbar and took a few swings to limber up. Julia open
 His companions made affirmative noises.
 
 “Then let's begin.”	
-
-
-
-
-
 
 ### XI. The Hidden Vault
 
@@ -1134,11 +1113,6 @@ Havelock blanched.
 “There's always a banishing ritual,” said William. “Surely? What kind of idiot would call something up they can't send away again?”
 
 “I think we all know the answer to that question,” said Havelock.
-
-
-
-
-
 
 ### XII. A Conversation with Albert
 
@@ -1363,11 +1337,6 @@ Havelock pursed his lips.
 “What now then?” said Julia. “I don't like to be a prophet of doom, but Georgie's time is running out.
 
 “Now?” said Havelock shaking himself slightly, and rising from the leather chair. “Now it is time for desperate measures.”
-
-
-
-
-
 
 ### XIII. Desperate Measures
 
@@ -1597,10 +1566,6 @@ The ghost nodded sadly. It seemed resigned.
 
 He leaned down and pinched the wick of the candle extinguishing it. By the time he'd straightened up, the ghost of Edmund Petherham was gone.
 
-
-### 
-
-
 ### XIV. A Walk At Twilight
 
 “You think I'm cruel,” said Lord Havelock suddenly, as they walked back toward the main house. The sun had almost entirely set and the first stars were visible in the eastern sky.
@@ -1634,11 +1599,6 @@ He made to open the door but she stopped him.
 “Was it worth it?” she asked. “Breaking the rules I mean.”
 
 “I think so,” he replied, perhaps a little too quickly. “I think I know what has to be done at any rate.”
-
-
-
-
-
 
 ### XV. Preparations for War
 
@@ -1700,11 +1660,6 @@ She was full of misgivings, but grabbed her valise and headed for the door nonet
 
 “As for you, Albert,” she heard Lord Havelock saying as the conservatory door closed behind her, “I want you to show me your father's medallion and explain to me why you never mentioned it before.”
 
-
-
-
-
-
 ### XVI. Gathering
 
 In the end it took the better part of two hours to get everyone and everything into position. Getting Georgie down the stairs was a challenge all his own—William would have struggled by himself but Albert was eager to help. 
@@ -1764,7 +1719,6 @@ Albert swallowed hard, but he nodded his head quickly.
 “Anything,” he said, his voice shaking a little.
 
 “Then I want you to call the Makara.”
-
 
 ### XVII . The Ritual of Banishment
 
@@ -1898,13 +1852,9 @@ Havelock was helping Bill up, so it was only Julia looking at the dark abyss as 
 
 thirsting for vengeance against the little mortals that had denied it its sport…
 
-
-### 
-
-
 ### XVIII. Fire and Tears
 
-… but then it was gone. Everything was suddenly moving again. Light poured back in—firelight, Julia realised. The desk and the book case were already consumed in flame, hungrily sweeping across the dry wood of the shelves and devouring the artifacts that Peter Petherham had so painstakingly collected.
+…but then it was gone. Everything was suddenly moving again. Light poured back in—firelight, Julia realised. The desk and the book case were already consumed in flame, hungrily sweeping across the dry wood of the shelves and devouring the artifacts that Peter Petherham had so painstakingly collected.
 
 Suddenly William was next to her, scooping Georgie up with one arm. With his other, he shook her, breaking the paralysis that had settled over her.
 
@@ -1937,9 +1887,6 @@ She made to run towards the summer house. Havelock grabbed her and spun her roun
 She shrieked incoherently, pulling away from him. He let her go. She took two stumbling steps toward the burning building then collapsed to her knees.
 
 “Get out of my sight, murderer,” she said coldly before burying her face in her hands, her body racked with sobs.
-
-
-
 
 ### XIX. A Frank Exchange of Views
 
@@ -1988,11 +1935,6 @@ William grabbed Havelock's shoulder again, more emphatically.
 William looked at Julia over Ambrose's head as the Chaptermaster sobbed into his chest, his own eyes welling with sorrow. But he was a doctor, and a soldier, and all too accustomed to death. He held out his free hand toward her, but she shook her head, still angry. But she kept her peace. She had tears enough of her own to shed. 
 
 They stood like that for a few moments, the two men clinging to each other, Julia to one side with her arms crossed, as the summer house collapsed in on itself in a storm of embers, and black smoke, and loss.
-
-
-
-
-
 
 ### XX. Departure
 

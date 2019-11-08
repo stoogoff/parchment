@@ -48,7 +48,7 @@ $fontMargins: 11pt "Playfair Display"
 		content: normal
 
 
-$chapters: "6", "10", "20", "44", "66", "82", "108", "134", "166"
+$chapters: "6", "10", "20", "44", "68", "84", "110", "136", "170"
 
 @each $chapter in $chapters
 	@page :nth(#{$chapter})
@@ -167,9 +167,18 @@ hr
 ul
 	margin: 0.5em 0 1em
 	padding: 0 0 0 1.5em
+	list-style-type: none
 
 	li
 		break-inside: avoid
+		position: relative
+		margin-bottom: 0.2em
+
+		&:before
+			font-size: 10pt
+			content: "\00BB"
+			position: absolute
+			left: -1em
 
 
 .underline
@@ -196,6 +205,9 @@ div.front-matter, header, figure
 
 div.story
 	page: story
+	break-before: left
+
+.back-matter
 	break-before: left
 
 // page specific styles
@@ -228,7 +240,7 @@ div.story
 		margin-bottom: 2em
 
 	p
-		text-align: left
+		text-align: center
 		font-size: 14pt
 
 
@@ -282,6 +294,10 @@ div.story
 		display: block
 		padding: 1em 0
 
+	p:last-of-type
+		text-indent: 0
+		font-size: 11pt
+
 #escape-room
 	blockquote
 		margin-left: 0
@@ -289,3 +305,7 @@ div.story
 
 		&:not(:first-of-type)+p:first-letter
 			font-size: 12pt
+
+
+#red-skin p:last-child
+	text-align: center

@@ -35,6 +35,8 @@ Both the humans in the room change their demeanour rapidly. They invite it insid
 
 Not just a gull. A harbinger of ill omen. A message from beyond the grave, somehow—from their own dear father, departed sadly these 22 years. This is the day they were warned about. A day they have been preparing for—just not one they had expected to interrupt their three week star billing at the Theatre Royal.
 
+***
+
 “Clementine, sister dearest?” 
 
 “Yes, brother of mine?”
@@ -60,6 +62,8 @@ The two of them turned round together and regarded the gull with utmost seriousn
 At that, they left their dressing room and made their way to the stage door, evading angry glances from both stagehands and their producer. The show must go on, but tonight it was a different show. 
 
 Back in the dressing room, the lone gull looked up wearily, grabbed one of the elegantly wrapped chocolate shells in its beak and flew back out of the window, high and away into the night air.
+
+***
 
 Clementine June Weatherlie and Clement August Weatherlie made their way from the stage door through the dingy alley at the back of the theatre and ran briskly across the road, lest they be recognised by the crowd outside the door who had come to see them perform. This managed, Clementine took a key from her reticule while her brother looked over his shoulder ready to fend off any autograph hunters. The key fitted perfectly into a little know door in the grounds of the Pavilion, a door that had not seen much use since the death of their father in the great storm of 1850. They were entering the local archives of the Aletheian Society—masses of parchments, tomes, objets d’art and occult paraphernalia meticulously collected by the previous generations who had served in the Society—including their dear departed father—and equally meticulously catalogued and maintained by their erstwhile personages. While they had dealt with all manner of supernatural threats in their time, they had been ultimately preparing for what they called _The Threat From The Sea_ (they both agreed it was worthy of capitalisation)—the very threat that had caused the great storm and taken their father from them too soon.
 

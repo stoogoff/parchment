@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="BookId" version="2.0">
+	<metadata>
+		<dc:identifier id="BookId" scheme="ISBN">978-1-9162767-5-8</dc:identifier>
+		<dc:language>en</dc:language>
+		<dc:title>The Casebook of the Aletheian Society</dc:title>
+		<dc:creator role="aut">Tales from the Aletheian Society</dc:creator>
+		<dc:date event="publication">2019-10-31</dc:date>
+		<dc:publisher>we evolve ltd</dc:publisher>
+		<dc:description>
+			Her majesty Queen Victoria sits on the throne of the United Kingdom of Great Britain and Ireland, but beneath the genteel veneer of society, dark forces are at work. Only the Aletheian Society, a secret organisation of scholars, occultists and adventurers, stands between the world and cataclysmic destruction.
+
+			Cursed artefacts, mysterious organisations, royal assignations, daemonic possessions, perilous journeys, infernal pacts and family secrets—the Aletheian Society faces them all in these eight chilling tales from some of today’s finest horror writers.
+		</dc:description>
+	</metadata>
+	<manifest>
+		<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx" />
+
+		<!-- fonts -->
+		<item id="comfortaa" media-type="application/font-sfnt" href="fonts/Comfortaa-Regular.ttf" />
+		<item id="font-awesome" media-type="application/font-sfnt" href="fonts/fa-solid-900.ttf" />
+		<item id="playfair-display" media-type="application/font-sfnt" href="fonts/PlayfairDisplay-Regular.ttf" />
+		<item id="great-vibes" media-type="application/font-sfnt" href="fonts/GreatVibes-Regular.ttf" />
+
+		<!-- media -->
+		<item id="cover" media-type="image/jpeg" href="img/cover.jpg" />
+		<item id="css" media-type="text/css" href="css/aletheiansoc.css" />
+		{{#each aletheiansoc-stories}}
+		{{#if image}}
+		<item id="{{makeId title}}-image" media-type="image/png" href="img/{{ image }}" />
+		{{/if}}
+		{{/each}}
+
+		<!-- pages -->
+		<item id="cover-page" media-type="application/html" href="cover-page.html" />
+		{{#each front-matter}}
+		<item id="{{ id }}" media-type="application/html" href="{{ id }}.html" />
+		{{/each}}
+		{{#each aletheiansoc-stories}}
+		<item id="{{makeId title}}" media-type="application/html" href="00{{ @index }}-{{makeId title}}.html" />
+		{{/each}}
+		<item id="authors" media-type="application/xhtml+xml" href="authors.html" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover-page" linear="yes" />
+		{{#each front-matter}}
+		<itemref idref="{{ id }}" linear="yes" />
+		{{/each}}
+		{{#each aletheiansoc-stories}}
+		<itemref idref="{{makeId title}}" linear="yes" />
+		{{/each}}
+		<itemref idref="authors" linear="yes" />
+	</spine>
+</package>

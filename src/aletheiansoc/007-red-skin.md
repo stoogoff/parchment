@@ -455,6 +455,8 @@ I have written this account while events are fresh in my mind, and will send a p
 
 I have the honour to remain, ma’am, your most obedient servant,
 
+&nbsp;
+
 _Miss Isabella Lucy Bird_
 
 _Illuminate of the Aletheian Society_

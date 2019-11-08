@@ -106,6 +106,8 @@ The servant, clearly shaken, gulped, his throat dry.
 
 Her face set in consternation she raised the letter in front of her face once more. The edges of Queen Victoria’s mouth rose in a grin and her face softened for a brief moment. It was the first time in months. 
 
+***
+
 “Yes, Windsor.” Cressida stated, seemingly exasperated by the obviousness of her own answer.
 
 “But… but ma whole family is here. Ma wife, ma bairns—”
@@ -170,6 +172,8 @@ Bertie turned around. He stalked down the rich, carpeted stairs and began his jo
 John unclenched his fists behind his back. He reached into his pocket, retrieving his hip flask. He unscrewed the top, hands shaking with anger, and raised to the Prince’s back.
 
 "Slainté, Your Highness,” he called, now smiling. He took a deep swig of the whisky within, and then turned on his heel and re-entered the Queen's drawing room.
+
+***
 
 Cressida pushed a book across the table. On top of it lay a fist-sized stone with an eye-shaped hole through its centre. There were what looked like tiny shellfish fossils on its surface and a series of small cracks emanated from the hole.
 

@@ -237,4 +237,4 @@ There is only one option left; I can only hope that the estate fence is indeed t
 * One gate to estate closed, one open. Doors left such that route to each body possible without need to open. Could be hasty exit of perpetrator, though Umberton likely vector + was found inside. Check Withershaw, 1824.
 * Diary found beside Umberton (included). Last two entries relevant, though confusing; suggest application of horus lens and/or oracular moerae. Penultimate entry dated March 12th describes the day before my visit. Final entry I transcribe here:
 
-There are but two possibilities. Either there is another boundary layer beyond the estate, or my life is not an acceptable sacrifice. For our souls I must find out which. For our souls, I must.
+*There are but two possibilities. Either there is another boundary layer beyond the estate, or my life is not an acceptable sacrifice. For our souls I must find out which. For our souls, I must.*
