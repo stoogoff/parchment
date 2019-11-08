@@ -17,6 +17,7 @@ const collections = require("./collections");
 
 
 const DESTINATION = "../dist";
+const DESTINATION_PATH = path.join(__dirname, DESTINATION);
 
 
 // setup Metalsmith and run
@@ -29,7 +30,7 @@ module.exports = Metalsmith(__dirname)
 
 	// add template file based on containing folder
 	.use(each((file, p) => {
-		if(!file.template && !file.collection) {
+		if(!file.template) {
 			file.template = path.join("tpl", p.substring(0, p.lastIndexOf("/"))) + ".html";
 		}
 	}, ".md"))
@@ -71,10 +72,28 @@ module.exports = Metalsmith(__dirname)
 		else {
 			console.log("Writing:");
 
-			fs.readdirSync(path.join(__dirname, DESTINATION)).forEach(file => {
+			const COPY_TARGET = path.join(__dirname, "../stuff/aletheiansoc/OEBPS");
+
+			fs.readdirSync(DESTINATION_PATH).forEach(file => {
 				const target = makeTargetDir(file.replace(".html", ".pdf"));
 
 				exec(`prince dist/${file} -o ${target}`, () => console.log(`* ${target}`));
+
+				// aletheiansoc specific
+				if(file.startsWith("aletheiansoc~")) {
+					let source = path.join(DESTINATION_PATH, file); 
+					let dest = path.join(COPY_TARGET, file.replace("aletheiansoc~", ""));
+
+					dest = dest.replace("toc.html", "toc.ncx").replace("content.html", "content.opf");
+
+					if(!dest.endsWith("aletheiansoc.html") && !dest.endsWith("blurb.html")) {
+						fs.copyFile(source, dest, (err) => {
+							if(err) {
+								console.error(err);
+							}
+						});
+					}
+				}
 			});
 		}
 	});

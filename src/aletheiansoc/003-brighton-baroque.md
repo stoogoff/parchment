@@ -2,9 +2,8 @@
 title: Brighton Baroque
 collection: aletheiansoc-stories
 sort: 3
+template: tpl/aletheiansoc/main.html
 author: Liam Spinage
-bio: |
-  LIAM SPINAGE is a former philosophy student, former archaeology teacher and former police clerk who spends most of his spare time on the beach gazing up at the sky and across the channel while his imagination runs riot.
 image: brighton-baroque.png
 caption: Not just a gull. A harbinger of ill omen…
 ---

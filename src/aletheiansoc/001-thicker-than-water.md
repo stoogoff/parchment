@@ -2,9 +2,8 @@
 title: Thicker Than Water
 collection: aletheiansoc-stories
 sort: 1
+template: tpl/aletheiansoc/main.html
 author: Christopher Edwards
-bio: |
-  CHRISTOPHER EDWARDS is an author of science fiction and fantasy as well as material for multiple LARP systems, most notably Profound Decisions and Shadow Factories. He has an impressive collection of roleplaying books, and lives in continual hope that someday his creative talents will allow him to escape wage slavery and do something he actually enjoys for a living.
 image: thicker-than-water.png
 caption: …her eyes rolled back in her head, sheets of faintly glowing greenish-white material running from her mouth…
 ---
@@ -83,7 +82,7 @@ I growled, but it seemed we were at an impasse, “All right then… Arthur, pay
 
 “Please, Dr Cadwallader, stop negotiating, I haven’t any more money on me!”
 
-And so for the princely sum of four pounds we got the shipping details and final destination of the Necronomicon. We hailed another cab and divided the labour evenly—I attended to my hip flask while Arthur leafed through the documentation, “Arrived from the Americas yesterday evening... delivered to Clayslaps Mill in Partick this morning.”
+And so for the princely sum of four pounds we got the shipping details and final destination of the Necronomicon. We hailed another cab and divided the labour evenly—I attended to my hip flask while Arthur leafed through the documentation, “Arrived from the Americas yesterday evening… delivered to Clayslaps Mill in Partick this morning.”
 
 “To Partick, then—and don’t spare the horses, cabbie!” I quickly had cause to regret engaging the cab-driver in conversation. From what I could understand of his diatribe, he was making a bitterly xenophobic complaint about foreign cab drivers stealing jobs from him and his kinsmen. Arthur has quite the ear for foreign tongues, and even he can barely understand the local patois. Thankfully the man’s polemic against the nations of the world didn’t get as far as Switzerland, or else I believe Arthur would have dueled him right there in the street. He’s as gentle as a lamb in most regards, but an insult to his wife, or indeed anyone of the female persuasion, can raise a chivalrous ire in the boy.
 
@@ -91,7 +90,7 @@ At length we pulled up at the mill on the banks of the Kelvin, only to find a la
 
 “This bodes.” I said, checking my revolver, “Someone has already begun attempting to use the book.”
 
-“Yes, that does look a bit... biblical.”
+“Yes, that does look a bit… biblical.”
 
 “At least they’re all focused on the river, not the mill itself. Let’s have a gander and see if we can’t find a way in…”
 
@@ -99,7 +98,7 @@ By means of a cart which was standing unattended we managed to haul ourselves up
 
 “I say, Doctor Cadwallader, there’s a light ahead.” Sure enough there was a ribbon of pale light shining under a door ahead—not the comforting yellow glow of a lantern, or even the sputtering glare of gas, but something wan and ethereal with green tones that somehow turned the blood rather waterish to look at.
 
-I cocked my pistol and gave Arthur the nod. Why in the blazes did it have to be just us on this charge to glory? “Come on then, ours is not to reason why...”
+I cocked my pistol and gave Arthur the nod. Why in the blazes did it have to be just us on this charge to glory? “Come on then, ours is not to reason why…”
 
 A swift kick and the door splintered, revealing the interior of a rudely furnished little room. At one end a man of rough demeanour who I took to be the miller held a bloodied knife. His other hand was missing several fingers and a welter of gore lay in a clay bowl on a sort of altar before him, atop which sat the open book. The miller’s drool-stained lips and rolling eyes made it clear that he and sanity had parted company some ways back.
 
@@ -107,11 +106,11 @@ At the other end of the room, a young slip of a thing stood with her eyes rolled
 
 The miller looked over and giggled, gesturing with his stumped hand so that blood spattered down onto the table, “A man with seven fingers will grind with blood instead of water, as the Rhymer spake.”
 
-“What... what even is going on here?” Arthur was clearly out of his depth, and I must confess I was having trouble deciding who to shoot myself when suddenly the many faces squirming in the ectoplasm faded away to be replaced by a single stern-looking older man.
+“What… what even is going on here?” Arthur was clearly out of his depth, and I must confess I was having trouble deciding who to shoot myself when suddenly the many faces squirming in the ectoplasm faded away to be replaced by a single stern-looking older man.
 
 “Arthur? Arthur my boy? It’s been so long, Arthur, I’ve missed you so much!” The voice came from a million miles away and somewhere right behind you at the same time.
 
-“Daddy? Is that... is that you?” Arthur’s lip trembled.
+“Daddy? Is that… is that you?” Arthur’s lip trembled.
 
 “Arthur? Steady now, Arthur, you know the rules—we don’t engage in conversation with Things from Beyond.” I licked my lips nervously as I added Arthur to the list of people I might have to shoot this afternoon.
 

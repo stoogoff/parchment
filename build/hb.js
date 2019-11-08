@@ -4,6 +4,7 @@
 const path = require("path");
 const fs = require("fs");
 
+const marked = require("marked");
 const Handlebars = require("handlebars");
 const each = require("./each");
 const id = require("./utils").id;
@@ -42,6 +43,15 @@ Handlebars.registerHelper("range", (count, options) => {
 	return buffer.join("");
 });
 
+Handlebars.registerHelper("markdown", text => {
+	return marked(text.toString(), {
+		smartypants: true,
+		gfm: true,
+		tables: true,
+		xhtml: true
+	});
+});
+
 // store templates
 let templates = {};
 
@@ -78,6 +88,7 @@ module.exports = () => {
 			templates[template] = Handlebars.compile(templateString);
 		}
 
+		file.originalContents = file.contents;
 		file.contents = templates[template](clone);
 	})
 };

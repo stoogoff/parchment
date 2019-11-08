@@ -2,9 +2,8 @@
 title: The Coarse Animal
 collection: aletheiansoc-stories
 sort: 6
+template: tpl/aletheiansoc/main.html
 author: Simeon Ewing
-bio: |
-  The class, grace and elegance SIMEON EWING brings to the part of Banjo is born of a proud Glasgow upbringing. When not writing or at the microphone he makes films happen and has just completed production on Chris Bogle’s short film The Rocket Ship. He likes salt and vinegar on his chips.
 image: coarse-animal.png
 caption: The flying mass above swarmed and wheeled and finally dived at the kneeling figure.
 ---
@@ -103,7 +102,7 @@ The Queen lowered the letter.
 
 The servant, clearly shaken, gulped, his throat dry.
 
-“...in Her Majesty’s riding attire.”
+“…in Her Majesty’s riding attire.”
 
 Her face set in consternation she raised the letter in front of her face once more. The edges of Queen Victoria’s mouth rose in a grin and her face softened for a brief moment. It was the first time in months. 
 

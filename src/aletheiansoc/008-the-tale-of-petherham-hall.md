@@ -2,14 +2,8 @@
 title: The Tale of Petherham Hall
 collection: aletheiansoc-stories
 sort: 8
+template: tpl/aletheiansoc/main.html
 author: Andy Rafferty
-bio: |
-  ANDY RAFFERTY
-  A common street thug with a penchant for brawling and womanising, Andy “Freddo” Rafferty came to the Society’s attention after successfully mugging the nine-dimensional being known as the Glistering Phantasm. Over a long and violent career, he racked up an impressive list of victories, and an even more impressive list of venereal diseases.
-
-  The majority of his service was with the Hatfield Chapter, where he was instrumental in both causing (and then later helping to reverse) the Unhappened Winter incident.
-
-  After succumbing to a sentient strain of syphilis acquired from an unwise liaison with an otherworldly entity, Freddo castrated himself with a butcher’s knife and ended his days in the Society’s Carfax Sanitorium.
 image: petherham-hall.png
 caption: “Come to me, man,” it said quietly, its voice dripping with salacious invitation…
 ---
@@ -118,7 +112,7 @@ A woman who could only be Lady Petherham was coming down the stairs as they ente
 
 Lord Havelock stepped forward, offering his hand. Lady Petherham made no move to take it.
 
-“Believe me, if there were any other choice...” She let her words die away. Lord Havelock dropped his hand, his shoulders slumping slightly, although his face remained calm.
+“Believe me, if there were any other choice…” She let her words die away. Lord Havelock dropped his hand, his shoulders slumping slightly, although his face remained calm.
 
 “Mother, please, these people are our guests.” The young man who accompanied the voice looked as if he had not been sleeping very well either. He crossed the room, and took Lord Havelock's hand, shaking it firmly.
 
@@ -154,7 +148,7 @@ He shot Julia a significant look which neither Lady Petherham nor her son could 
 
 He didn't look pleased, but complied with his mother's request. With a backward glance, he disappeared along one of the carpeted hallways.
 
-“Blaylock will take your things up to the guest rooms.” said Lady Petherham once they were alone.“Perhaps your... ward... would like to change for tea?”
+“Blaylock will take your things up to the guest rooms.” said Lady Petherham once they were alone.“Perhaps your… ward… would like to change for tea?”
 
 Their hostess was pointedly ignoring Julia, and it was all she could do to stop herself saying something impertinent.
 
@@ -162,7 +156,7 @@ Their hostess was pointedly ignoring Julia, and it was all she could do to stop 
 
 Lady Petherham did not answer, nor did she look particularly pleased. Without another word she swept out of the room, with one brief backward glance to see if they were behind her. The three exchanged a look, and then followed her along a carpeted corridor.
 
-“I swear that woman thinks I'm your... your damn mistress!” hissed Julia, barely able to contain herself.
+“I swear that woman thinks I'm your… your damn mistress!” hissed Julia, barely able to contain herself.
 
 Lord Havelock smothered a smile. He shook his head.
 
@@ -170,7 +164,7 @@ Lord Havelock smothered a smile. He shook his head.
 
 Their hostess disappeared through a door ahead of them.
 
-“Well... no. But... it's outrageous!”
+“Well… no. But… it's outrageous!”
 
 William and Havelock shared a look, which infuriated Julia even more for some reason. She changed the subject.
 
@@ -186,7 +180,7 @@ The drawing room was neat and richly appointed but had all the warmth and cheer 
 
 “Amelia —” began Lord Havelock, but she cut him off.
 
-“Lady Petherham, if you don't mind.” she snapped. “You lost every right to call me by that name when you... when your Society murdered my husband!”
+“Lady Petherham, if you don't mind.” she snapped. “You lost every right to call me by that name when you… when your Society murdered my husband!”
 
 “Edmund knew the risks,” Lord Havelock began. But he had misjudged how taut Lady Petherham's temper had been stretched. 
 
@@ -204,7 +198,7 @@ As Julia knelt by the table and began to pour the tea, Lady Petherham took advan
 
 “Aye, and we respected your wishes,” said William. Their hostess inclined her head slightly in acknowledgement, but continued to address herself to the Chaptermaster. Lord Havelock sipped his tea, his eyes hooded, his expression flat, saying nothing. 
 
-“But now... Oh God. Now it seems I have no choice.” She took in a deep shuddering breath. “Something... something has found my son. I am at my wits’ end. Doctors are no help. The priest fled the house. I had no choice but to contact you. You! And your... and your Society.”
+“But now… Oh God. Now it seems I have no choice.” She took in a deep shuddering breath. “Something… something has found my son. I am at my wits’ end. Doctors are no help. The priest fled the house. I had no choice but to contact you. You! And your… and your Society.”
 
 Havelock nodded slowly, as if this made perfect sense.
 
@@ -212,7 +206,7 @@ Havelock nodded slowly, as if this made perfect sense.
 
 Lady Petherham put her cup and saucer down, folding her hands in her lap with careful movements. She did not look at any of them as she began to speak, gazing instead into the distance.
 
-“It started just over three weeks ago,” she began. “Georgie was at school, of course. The housemaster said his screams roused near half the town. They thought at first it was just a nightmare, but then the matron saw the marks. As soon as I heard I sent Albert with Blaylock to bring him home. I hoped that might help, somehow. I had Doctor Edmonton examine him, but he could find nothing to explain his symptoms. Then last week I begged Father Bishop to come, and he... well he was no help either.”
+“It started just over three weeks ago,” she began. “Georgie was at school, of course. The housemaster said his screams roused near half the town. They thought at first it was just a nightmare, but then the matron saw the marks. As soon as I heard I sent Albert with Blaylock to bring him home. I hoped that might help, somehow. I had Doctor Edmonton examine him, but he could find nothing to explain his symptoms. Then last week I begged Father Bishop to come, and he… well he was no help either.”
 
 She looked down at her hands, then back up, meeting Lord Havelock's gaze steadily.
 
@@ -228,7 +222,7 @@ Georgie was sitting up in bed. He seemed lost in the pillows, his shock of black
 
 “Bill?” Lord Havelock jerked his head towards the bed. William stepped up smartly, giving the lad his best bedside manner.
 
-“Who... are these people, mama?” asked Georgie. He sounded half-asleep, his voice weak. Lady Petherham put on a brave face, sitting in the comfortable chair next to his bed.
+“Who… are these people, mama?” asked Georgie. He sounded half-asleep, his voice weak. Lady Petherham put on a brave face, sitting in the comfortable chair next to his bed.
 
 “They are old friends of your father,” she said gently. “Doctor Morcambe here is just going to take a look at you.”
 
@@ -246,7 +240,7 @@ Georgie nodded, but the trepidation was written on his face. As he struggled, Wi
 
 “Because doctors save lives.” He spoke with absolute certainty. Lady Petherham reached out and took his hand, holding it gently as William unwrapped the bandages from his patient's arm with surprising dexterity in his thick fingers. She looked over towards Lord Havelock.
 
-“Georgie's sister...” she began by way of explanation. “She fell ill. Not long after her father... passed away. They both did. The doctors did their best... but in the end...”
+“Georgie's sister…” she began by way of explanation. “She fell ill. Not long after her father… passed away. They both did. The doctors did their best… but in the end…”
 
 Despite herself, Julia felt an almost overwhelming need to comfort this poor woman. So much tragedy in her life, it was little wonder she appeared so cold. 
 
@@ -293,11 +287,11 @@ She pulled up the counterpane, and squinted under the bed. A chamber pot stared 
 
 “Bingo!” she exclaimed. “Havelock, we'll need to pull the bed out slightly I think. There's something back here.”
 
-“We're not supposed...” began Georgie but Havelock paid no heed, grabbing the end of the bed and pulling it forward a little. Julia leaned forward, trying to wedge her hand down into the gap, then suddenly froze. She went across to the chest of drawers and rummaged around until she found a pair of socks. She slipped one of them onto her hand, to the mystification of young Georgie.
+“We're not supposed…” began Georgie but Havelock paid no heed, grabbing the end of the bed and pulling it forward a little. Julia leaned forward, trying to wedge her hand down into the gap, then suddenly froze. She went across to the chest of drawers and rummaged around until she found a pair of socks. She slipped one of them onto her hand, to the mystification of young Georgie.
 
 “One can never be too careful,” she said in a cheerful tone. Then she leant back against the wall and reached down with her ensocked hand, scrabbling for moment.
 
-“Feels like… a little bag,” she said. “With a string. Someone's stuck it in place with... I think it's drawing pins... got it!”
+“Feels like… a little bag,” she said. “With a string. Someone's stuck it in place with… I think it's drawing pins… got it!”
 
 She pulled the bag out with a triumphant flourish.
 
@@ -325,7 +319,7 @@ Georgie blanched visibly, a quick spasm running through him.
 
 “The bruises on t’lad's chest. I've seen summat like em before. On a man as had had a bloody great python wrapped round him.” William shook his head in wonderment. “But that fellow had most of his ribs snapped afore we could get t’damn serpent off from round him. He died, for all that we killed the beast. But I'd swear t’bones under the bruising are fine. It's the damnedest thing – I don't know what's been going on but there ought to be a lot more damage to go with those bruises than there is.
 
-“As to the rest... did you see how t’wounds on his arms were arranged? Like a ribbon almost. Or a  code—there's some odd bruising and all. Like a ligature mebbe.”
+“As to the rest… did you see how t’wounds on his arms were arranged? Like a ribbon almost. Or a  code—there's some odd bruising and all. Like a ligature mebbe.”
 
 “Or an octopus.” 
 
@@ -348,13 +342,13 @@ She mimed as she spoke.
 
 “Buried alive?” suggested William thoughtfully. 
 
-“The breathing and inability to move...” said Julia thoughtfully. “I've read about some similar cases. Night hags. Demons in the form of hideous old women that sit on the chest of their victim. That might explain the watching.”
+“The breathing and inability to move…” said Julia thoughtfully. “I've read about some similar cases. Night hags. Demons in the form of hideous old women that sit on the chest of their victim. That might explain the watching.”
 
 Havelock nodded, while William shook his head at the horrors of the world. 
 
 “Oh yes, and this of course.” Julia slipped the sock-covered bag out of her sleeve, and weighed it in her hand.
 
-“Is that... a sock?” William looked as mystified as Georgie had.
+“Is that… a sock?” William looked as mystified as Georgie had.
 
 “Well I don't have my mittens on me, do I?” she said a little haughtily. “And I'm not handling an unknown item of dubious provenance with my bare hands until I know what it is.”
 
@@ -409,7 +403,7 @@ He mimed throwing a punch. A rare, sad smile broke across his features.
 
 He attended to his roast beef with gusto, but Julia saw him throw a glance across to Havelock, and something passed between them. Albert was oblivious.
 
-“It sounds awful,” he said. “I thought I might go into politics maybe? Or just help mother run the estate. It's a lot of work for one woman after all. Especially with Georgie...”
+“It sounds awful,” he said. “I thought I might go into politics maybe? Or just help mother run the estate. It's a lot of work for one woman after all. Especially with Georgie…”
 
 His voice faltered, and his air of bonhomie fell away. Havelock changed the subject.
 
@@ -425,7 +419,7 @@ The meal was rounded out by a heavy suet pudding with extremely thick custard. W
 
 “We'll sit with the boy tonight, of course,” said Havelock. “The nightmares seem to be at the core of it.”
 
-“Have you any idea...” She stopped, considering her words. “Is it... is it a demon? Is my poor baby possessed?”
+“Have you any idea…” She stopped, considering her words. “Is it… is it a demon? Is my poor baby possessed?”
 
 Her face twisted. It was clear she hated discussing the supernatural, but that she had to ask. She had to know. It was not an unfamiliar attitude.
 
@@ -435,7 +429,7 @@ Julia leaned forward in her chair slightly. “It sounds more like its an oppres
 
 “What's the difference?” 
 
-“A possession involves a... an entity... taking up residence inside a victim. An oppression is what we call it when the entity is tormenting someone from outside.”
+“A possession involves a… an entity… taking up residence inside a victim. An oppression is what we call it when the entity is tormenting someone from outside.”
 
 “You've encountered this kind of thing before?” Lady Petherham looked at Julia for what seemed like the first time since she'd arrived. It was an appraising look.
 
@@ -451,7 +445,7 @@ Havelock started to say something but then thought better of it.
 
 “You know we didn't even have a body to bury,” she said quietly, still staring at Julia. “Lost at sea, they told me. I knew it was a lie. So convenient.”
 
-“Amelia...” Havelock tried to reach across the table to touch her hand.
+“Amelia…” Havelock tried to reach across the table to touch her hand.
 
 “Don't.” She pulled away and stood.
 
@@ -563,7 +557,7 @@ William immediately tried to move to his side. “What the bleedin' heck!” he 
 	“My case!” Julia turned in slow motion, her skirts and her hair spreading and twisting around her in an unnatural way as she forced herself through the gelid atmosphere toward her chair. “There's a candle—” \
 	“Oh my God,” said Havelock quietly, gazing past them both, eyes wide and mouth hanging open in horror. As Julia grabbed the white candle out of one of the inner pockets, she turned to look.
 
-The far wall of the bedroom was just... gone. From corner to corner, there was nothing there. Or not gone, not really. She should have been looking into the adjoining bedroom but instead there was only darkness, an utterly profound blackness that seemed to be sucking in all illumination from the room. Worse, it seemed to be spreading, pouring into the room as the light from the lamp shrank down to a ring barrely illuminating the table on which it stood.
+The far wall of the bedroom was just… gone. From corner to corner, there was nothing there. Or not gone, not really. She should have been looking into the adjoining bedroom but instead there was only darkness, an utterly profound blackness that seemed to be sucking in all illumination from the room. Worse, it seemed to be spreading, pouring into the room as the light from the lamp shrank down to a ring barrely illuminating the table on which it stood.
 
 The flowing night brought with it a stench—an almost overwhelming smell of something foul that Julia could not put into words. She covered her mouth with her hand, fighting to keep her supper down as she scrambled in her case for a match.
 
@@ -587,7 +581,7 @@ The wall of blackness still occupied the far side of the bedroom; it possessed a
 
 “This ain't good,” he said. “This ain't good at all, Ambrose. He's cold as ice, and he's sweating like a pig. He's barely breathing, either. We need to get the lad out of here and pretty damn quick.”
 
-“We can't move him yet,” Havelock had not taken his eyes off the square of blackness. “I don't want anyone stepping outside the ward. It seems to be holding at least some of this back, whatever it is, and until we know more...”
+“We can't move him yet,” Havelock had not taken his eyes off the square of blackness. “I don't want anyone stepping outside the ward. It seems to be holding at least some of this back, whatever it is, and until we know more…”
 
 Something moved in the blackness. Julia gasped. She couldn't say with certainty how she knew, but she knew it was something big. Something immense. Something coiling, or uncoiling, or roiling. She had lost all sense of perspective. 
 
@@ -609,7 +603,7 @@ The thing hissed again, its mouth widening unnaturally, spreading across its low
 
 “I am not yourssss to command little man.” 
 
-Julia realised it was laughing. It moved forward another step. There as something... wrong with the way it moved. Julia realised she couldn't be sure if it was walking, It moved like it as gliding. Or sliding. She squeezed her eyes shut, taking a deep breath, willing herself to see what was really there.
+Julia realised it was laughing. It moved forward another step. There as something… wrong with the way it moved. Julia realised she couldn't be sure if it was walking, It moved like it as gliding. Or sliding. She squeezed her eyes shut, taking a deep breath, willing herself to see what was really there.
 
 “Name yourself and your purpose,” Havelock was not taking no for an answer. The hissing laughter came again.
 
@@ -643,7 +637,7 @@ She glanced at the candle then—already half burnt. The substance of the Summer
 
 “Leave Georgie alone,” said Julia. She unconsciously moved the candle so it was between her and the creature. Its light steeled her spirit and made her words steadier than they had any right to be. “We won't let you hurt him any more.”
 
-“Sssoon the boy will be done.” The thing peeled back its lips, revealing row upon row of  vicious, jagged triangles rather than the thicket of spears it had held earlier. “Then the mother. Then the other brother and then... then who knowsss where the twisssting spiral and the great ocean will take me?”
+“Sssoon the boy will be done.” The thing peeled back its lips, revealing row upon row of  vicious, jagged triangles rather than the thicket of spears it had held earlier. “Then the mother. Then the other brother and then… then who knowsss where the twisssting spiral and the great ocean will take me?”
 
 Malice poured from it in waves. It moved forward again, stopping at the very edge of the ring of salt. It looked down, then back up, first at Julia, then Havelock, then past them to Georgie and William.
 
@@ -715,7 +709,7 @@ He bit down on the stem of his pipe and held his hands about eighteen inches apa
 
 They digested this for a moment.
 
-“If we'd not been there....” William shook his head. “Most likely best not to dwell, but if we'd not been in t’room when it happened I think we'd have lost t’boy tonight. As it is, he'll need careful watching. He's a mere slip of a thing, and there's a lot that can go wrong with a wound like that on the brawniest man.”
+“If we'd not been there….” William shook his head. “Most likely best not to dwell, but if we'd not been in t’room when it happened I think we'd have lost t’boy tonight. As it is, he'll need careful watching. He's a mere slip of a thing, and there's a lot that can go wrong with a wound like that on the brawniest man.”
 
 “Did we make it worse?” Julia articulated something that had been bothering her for some time.
 
@@ -731,9 +725,9 @@ Havelock shook his head. “I don't think so,” he said carefully. “I think i
 
 “So that's another symptom of the oppression,” said Havelock. “It can't be a coincidence.”
 
-“You're thinking of the father,” said Julia. “Given he died at sea, I'd guess there's a connection...”
+“You're thinking of the father,” said Julia. “Given he died at sea, I'd guess there's a connection…”
 
-William was shaking his head. “Except Eddie didn't actually die at sea,” he said. “We just told Amelia he did because it was... easier.”
+William was shaking his head. “Except Eddie didn't actually die at sea,” he said. “We just told Amelia he did because it was… easier.”
 
 “More lies?” said Julia icily. The two men had the good grace to look guilty. Havelock rallied quickly however.
 
@@ -753,7 +747,7 @@ Julia looked down at her notebook. She'd spent the time in the kitchen construct
 
 She held up a finger and wiggled it around to illustrate her point. She took a deep breath and let it out slowly.
 
-“I agree with Lord Havelock,” she said slowly. “Not everything that happened was entirely real. But I think... I think the other side of that wall of darkness was underwater. A long way underwater.
+“I agree with Lord Havelock,” she said slowly. “Not everything that happened was entirely real. But I think… I think the other side of that wall of darkness was underwater. A long way underwater.
 
 “Beneath the thunders of the upper deep,” quoted Havelock, “far, far beneath in the abysmal sea.”
 
@@ -773,7 +767,7 @@ She trailed off. William has shaking his head grimly.
 
 “St Margaret's,” said William nodding. “Bloody Nora, but I hope it's not like St Margaret's. That were a bad'un.”
 
-“Thinking about it, I don't believe that's what we're dealing with though. When the creature was talking, it seemed more.... more personal than your usual idiot cabal. Do you know what I mean?”
+“Thinking about it, I don't believe that's what we're dealing with though. When the creature was talking, it seemed more…. more personal than your usual idiot cabal. Do you know what I mean?”
 
 William looked unconvinced, but Julia nodded.
 
@@ -813,7 +807,7 @@ William excused himself, stepping out with a bacon sandwich in one hand, a mug o
 
 Albert arrived late, but ate with gusto. Behind his back, Lord Havelock made unhelpful facial expressions at Julia, raising his eyebrows and jerking his head toward the young man. Julia shot Havelock a frigid glare and then, with a smile she did not feel, mentioned to Albert that she would like to see over the house—if it wasn’t too much trouble. He looked a little taken aback.
 
-“Oh! But I thought I might...” He left the sentence hanging, turning in his chair to look at Lord Havelock.
+“Oh! But I thought I might…” He left the sentence hanging, turning in his chair to look at Lord Havelock.
 
 “No, no,” said Ambrose, flapping one hand vaguely. “I've got things to be getting on with. Books and such like. Give Miss Garvey the Grand Tour, it'll be useful if she knows the lay of the land.”
 
@@ -835,7 +829,7 @@ Inside Lord Havelock sat behind the large wooden desk going through a pile of pa
 
 “Nobody is allowed in Father's study!” said Albert, reproachfully. “Does mother know you're in here?”
 
-“She does, don't you worry. She gave me the key herself. I thought there might be some clue as to why young Georgie...” He trailed off with a vague gesture.
+“She does, don't you worry. She gave me the key herself. I thought there might be some clue as to why young Georgie…” He trailed off with a vague gesture.
 
 “You think this all has something to do with Father?” asked Albert in an odd tone. He began, again, to twiddle with one of his collar buttons.
 
@@ -847,7 +841,7 @@ Interesting, thought Julia. She watched him carefully. He was clearly worried, h
 
 “Oh, certainly. As long as Mother knows.” He stepped back out into the hall and the Grand Tour resumed—albeit with several nervous glances over his shoulder toward the study door.
 
-“After Father... after the funeral I mean... some dashed peculiar people came and went through Father's study,” he told Julia as they proceeded along the passage toward the library. “I remember mother was very angry. They took some of the books out of the library as well – carted them off in a big trunk. And some of Father's hunting trophies. What do you make of that?”
+“After Father… after the funeral I mean… some dashed peculiar people came and went through Father's study,” he told Julia as they proceeded along the passage toward the library. “I remember mother was very angry. They took some of the books out of the library as well – carted them off in a big trunk. And some of Father's hunting trophies. What do you make of that?”
 
 Julia was suddenly aware of Albert staring at her closely, all suggestion of scatterbrained buffoonery gone and replaced by an unsettling keen expression.
 
@@ -857,7 +851,7 @@ Julia was suddenly aware of Albert staring at her closely, all suggestion of sca
 
 He looked a little lost for a moment, and Julia almost felt her heart soften.
 
-“Of course, Father was involved in some dashed peculiar goings-on of his own you know...” he began, as he opened the doors to the library, and tailed off.
+“Of course, Father was involved in some dashed peculiar goings-on of his own you know…” he began, as he opened the doors to the library, and tailed off.
 
 William had his jacket draped over a chair and his shirt-sleeves rolled up. He was standing on a stool, carefully measuring one of the floor-to-ceiling bookshelves with a measuring tape. He jotted something down in his notebook with a stub of pencil, and then turned to the pair of them with a broad—and only slightly guilty—smile.
 
@@ -869,7 +863,7 @@ William shrugged. “Havelock says it might,” he said. His cheeks flushed as h
 
 “I'm sure if Lord Havelock says it will help, it will help,” said Julia brightly, hating herself.
 
-“Aye, well. I'm done here. Off to take a look at t'cellars next. So if you'll both excuse me...”
+“Aye, well. I'm done here. Off to take a look at t'cellars next. So if you'll both excuse me…”
 
 William rolled up the measuring tape and slipped it into his pocket, slung his jacket over his shoulder, touched the brim of his bowler, and brushed past them. On his way out he gave Julia what she thought to be a deeply inappropriate wink where Albert could not see.
 
@@ -901,7 +895,7 @@ She did not press the issue. As they proceeded, however, she saw William leaning
 
 Albert agreed. “Dashed rum doings,” he said. “What was…”
 
-“You said your father was involved in peculiar affairs himself...” she interrupted as they continued to walk.
+“You said your father was involved in peculiar affairs himself…” she interrupted as they continued to walk.
 
 “Yes, I did, didn't I? Mother said he and Uncle Edmund did secret work for the Foreign Office. Keeping England safe from its enemies. He was part of some club or something. Do you think she means Father was a spy? Is that a suitable occupation for a gentleman do you think?”
 
@@ -911,7 +905,7 @@ Albert agreed. “Dashed rum doings,” he said. “What was…”
 
 “It does sound exciting,” said Julia.
 
-“I think perhaps Lord Havelock and Uncle Bill were involved,” said Albert. “In this club I mean. Not that Mother would tell me anything about it. All very secret, this society. Like a… like a...” 
+“I think perhaps Lord Havelock and Uncle Bill were involved,” said Albert. “In this club I mean. Not that Mother would tell me anything about it. All very secret, this society. Like a… like a…” 
 
 He was trying to find the words – or rather pretending. Trying to draw her out as they walked. 
 
@@ -923,7 +917,7 @@ All pretence was gone. He was staring at her intently, now, fiddling with his cu
 
 “I think maybe they were in the same club,” she said slowly, looking back at him, interested in how he might react. A triumphant expression passed across his face, although he tried to hide it.
 
-“I knew it,” he said quickly. “Tell me about it...” 
+“I knew it,” he said quickly. “Tell me about it…” 
 
 His tone was wheedling. This is not good, thought Julia. Not good at all.
 
@@ -939,7 +933,7 @@ His tone was wheedling. This is not good, thought Julia. Not good at all.
 
 “Yes. All the things Father brought back went into trunks.” Albert folded his arms. He was sweating slightly. Unconsciously, again, his hand came up to fiddle with his collar button.
 
-“Look...” he began. “I know there's something going on here. Mother hasn't spoken to Lord Havelock in years, and now she's invited him back to the house. What does she think he and Uncle Bill can do that a doctor can't? Why not just take Georgie out of the house to somewhere safe? Before something bad happens to him?”
+“Look…” he began. “I know there's something going on here. Mother hasn't spoken to Lord Havelock in years, and now she's invited him back to the house. What does she think he and Uncle Bill can do that a doctor can't? Why not just take Georgie out of the house to somewhere safe? Before something bad happens to him?”
 
 Julia pursed her lips.
 
@@ -949,7 +943,7 @@ He flinched then, looking away and down.
 
 “I just feel so helpless,” he said quietly. She patted his arm.
 
-“If you know something,” she began. “Anything. You have to tell me. He looked at her blankly. “No matter what it is,” she soldiered on. “I... we... won't laugh at you. No matter how unbelievable it might sound.”
+“If you know something,” she began. “Anything. You have to tell me. He looked at her blankly. “No matter what it is,” she soldiered on. “I… we… won't laugh at you. No matter how unbelievable it might sound.”
 
 Still nothing.
 
@@ -968,7 +962,7 @@ Mrs Blaylock was still indisposed. The three Society members met up in the kitch
 As soon as the boy had left, William turned the them with a grim expression. “I've found something,” he said. “Too hard to explain, you'll need t'see it for yourself.”
 
 “Really?” \
-	“No,” he said, deadpan. “It's just that there's a hidden vault under the summerhouse with a load of nasty looking books and trinkets. But you'll still want to come see for yourself so....”
+	“No,” he said, deadpan. “It's just that there's a hidden vault under the summerhouse with a load of nasty looking books and trinkets. But you'll still want to come see for yourself so….”
 
 As they left the kitchen, Julia added quietly,“Albert knows something, but I don't know what. At the very least he at last suspects the existence of the Society and that his father was involved. His Uncle too. He's pretty clearly feeling guilty about something. Frankly, I think he's up to his neck in whatever is going on here.” 
 
@@ -990,7 +984,7 @@ Nor was it locked— although it looked as if it might have been until very rece
 
 Inside the summer house was a single empty room, thick with dust. A heavy wooden trapdoor lay open along the eastern side, with William's bag next to it.
 
-“Once I were in it were easy enough t'find t'door,” he said. “There were a pretty obvious trail straight to and from it. In the dust like. There were also a stupid bloody puzzle lock but I couldn't be 'avin' with it so...”
+“Once I were in it were easy enough t'find t'door,” he said. “There were a pretty obvious trail straight to and from it. In the dust like. There were also a stupid bloody puzzle lock but I couldn't be 'avin' with it so…”
 
 He opened his jacket slightly to reveal the crowbar jutting out of the inside pocket.
 
@@ -1071,11 +1065,11 @@ He stroked his chin, his eyes unfocused, staring off into the past. Lord Haveloc
 
 William shook his head.
 
-“Don't be so hard on yourselves,” he said. “Peter were a clever man, and a charming one to boot. Clever'n his brother, and clever'n me. It were just luck that I saw him meeting wi' one of t'Rowdy Boys that evening and wondered what were in the package... anyway. Turned out Peter had fallen in wi' a bad lot. A proper conspiracy, inside t'Aletheian Society itself.”
+“Don't be so hard on yourselves,” he said. “Peter were a clever man, and a charming one to boot. Clever'n his brother, and clever'n me. It were just luck that I saw him meeting wi' one of t'Rowdy Boys that evening and wondered what were in the package… anyway. Turned out Peter had fallen in wi' a bad lot. A proper conspiracy, inside t'Aletheian Society itself.”
 
 “Conspiracy!” Lord Havelock snorted. He'd stood up and was absently looking though the last shelf of books. “You give it too grand a name. It was barely a conspiracy. It was mostly Peter, and a couple of credulous idiots whose vanity he was exploiting. He was very good at getting what he wanted, was Peter. And it turned out that what he wanted was power, and that he didn't care who he had to tread on to get it.”
 
-“He'd been stealing from t'Society,” said William, shaking his head. “Almost everywhere we went. Mostly stuff that'd not be missed. Books, artifacts, lore. Anything he could get his hands on. And more than once it turned out he was paying folk to get to places ahead of us and steal owt of value afore we got there. Stealing and using. By the time we cottoned on, he'd gathered up quite the collection. Once he knew we were on to him...”
+“He'd been stealing from t'Society,” said William, shaking his head. “Almost everywhere we went. Mostly stuff that'd not be missed. Books, artifacts, lore. Anything he could get his hands on. And more than once it turned out he was paying folk to get to places ahead of us and steal owt of value afore we got there. Stealing and using. By the time we cottoned on, he'd gathered up quite the collection. Once he knew we were on to him…”
 
 “And how did he find out?” interrupted Havelock bitterly. 
 
@@ -1083,7 +1077,7 @@ William shook his head.
 
 “I damned well can blame him,” the Chaptermaster snapped in return. He pulled the last book off the bookshelf, paging through it slowly, a complex mixture of frustration, anger, and sadness playing across his features.
 
-“While we were laying a trap to catch him out, Edmund went to see Peter.” Havelock couldn't keep the emotion from his voice, and Julia could hear the pain that betrayal still caused him even now, so many years later. “I think he wanted to give him a chance to surrender, or at least deny the charges. We don't know for sure what happened, but the next thing we knew the both of them were on a steamer out of Dover. We gave chase, caught up with them in Egypt. Peter had used... something... on his brother. Captured his spirit in a jar, turned him into his thrall. There was a fight. They both died.”
+“While we were laying a trap to catch him out, Edmund went to see Peter.” Havelock couldn't keep the emotion from his voice, and Julia could hear the pain that betrayal still caused him even now, so many years later. “I think he wanted to give him a chance to surrender, or at least deny the charges. We don't know for sure what happened, but the next thing we knew the both of them were on a steamer out of Dover. We gave chase, caught up with them in Egypt. Peter had used… something… on his brother. Captured his spirit in a jar, turned him into his thrall. There was a fight. They both died.”
 
 “Not just them,” said William.
 
@@ -1172,7 +1166,7 @@ Instead he covered his face in his hands and burst into tears.
 
 William immediately made to move forward, probably to comfort him, but Havelock shook his head sternly. “Tears aren't going to help anyone,” he said severely. “Not you, and certainly not your brother. What were you thinking?”
 
-Albert pulled himself together. He looked embarrassed, shooting a particularly worried glance in Julia's direction. “I wanted...” He stopped, stumbling over his words. Wordlessly Havelock handed him a monogrammed silk handkerchief. Albert dabbed his eyes and blew his nose loudly before handing it back. Julia marked with interest that the Chaptermaster folded the silk square carefully and slipped it into his jacket pocket instead of returning it to his waistcoat.
+Albert pulled himself together. He looked embarrassed, shooting a particularly worried glance in Julia's direction. “I wanted…” He stopped, stumbling over his words. Wordlessly Havelock handed him a monogrammed silk handkerchief. Albert dabbed his eyes and blew his nose loudly before handing it back. Julia marked with interest that the Chaptermaster folded the silk square carefully and slipped it into his jacket pocket instead of returning it to his waistcoat.
 
 “I wanted to speak to Father,” he said at last. His voice was small, quiet, unlike anything Julia had heard from him before.
 
@@ -1182,11 +1176,11 @@ This answer was clearly not what Havelock was expecting, but he quickly covered 
 
 “I am telling the truth!” insisted Albert wretchedly, but the Chaptermaster was having none of it. Julia, on the other hand slapped her hand to her forehead as realisation struck her. All eyes turned to her.
 
-“Dominion over things lost in the deeps,” she quoted. “Albert... you thought that included your father. Because he was lost at sea.”
+“Dominion over things lost in the deeps,” she quoted. “Albert… you thought that included your father. Because he was lost at sea.”
 
 She enunciated that last very clearly, staring at Havelock. He had the good grace not to meet her gaze but it took some of the wind out of his sails.
 
-“Yes,” he said simply. “I thought I could command it to bring Father to me so we... so we could talk. I wanted to ask him about... well— all sorts of things. I'd had a terrible fight with mother, you see, and I thought....”
+“Yes,” he said simply. “I thought I could command it to bring Father to me so we… so we could talk. I wanted to ask him about… well— all sorts of things. I'd had a terrible fight with mother, you see, and I thought….”
 
 He tailed off. Havelock covered his face with his hand for a moment.
 
@@ -1194,7 +1188,7 @@ He tailed off. Havelock covered his face with his hand for a moment.
 
 Albert looked absolutely devastated. It had been easy, Julia considered, to forget that he was practically a child himself. His easy confidence had made him seem older, more mature, but it was clear that it had been a facade. She felt some sympathy for him. More than Lord Havelock did, at least.
 
-“I just... I just...” he tailed off again. He was crying again, quietly this time, his head bowed and his hands in his lap.
+“I just… I just…” he tailed off again. He was crying again, quietly this time, his head bowed and his hands in his lap.
 
 “No more excuses,” said Lord Havelock. “Tell me everything.
 
@@ -1250,7 +1244,7 @@ Julia thought of the letters Havelock had found in the box up the chimney, with 
 
 He shivered, remembering.
 
-“It was so dark, and I didn't dare light the lamp in case anyone saw me. I had to find the trapdoor by touch and wracked my brains remembering the solution to the puzzle. I was certain Blaylock was going to catch me at any moment. Or the ghost of Uncle Peter. Or worse. I used to have nightmares about old Walston Petherham drifting about in the dark with the noose still round his neck and... anyway.”
+“It was so dark, and I didn't dare light the lamp in case anyone saw me. I had to find the trapdoor by touch and wracked my brains remembering the solution to the puzzle. I was certain Blaylock was going to catch me at any moment. Or the ghost of Uncle Peter. Or worse. I used to have nightmares about old Walston Petherham drifting about in the dark with the noose still round his neck and… anyway.”
 
 “Anyway,” agreed Lord Havelock. “I assume you didn't find what you were looking for.”
 
@@ -1260,7 +1254,7 @@ Albert shook his head.
 
 “Peter's grimoire,” said Havelock. Albert nodded silently.
 
-“It was the only book in English,” he said. “Uncle Peter had mentioned it, how he'd written it himself, but I'd assumed it would have been one of the things he took with him. He'd left it though. I thought there might have been something in there so I read through it and... and that's when I read about it. About the... the Makara.”
+“It was the only book in English,” he said. “Uncle Peter had mentioned it, how he'd written it himself, but I'd assumed it would have been one of the things he took with him. He'd left it though. I thought there might have been something in there so I read through it and… and that's when I read about it. About the… the Makara.”
 
 At the very moment he spoke the name, a cloud passed over the sun dimming the light in the library. Julia felt cold, suddenly, as cold as she had the previous night. She was struck with the overwhelming impression that there was something directly behind her, something vast and terrible and hungry at which she did not dare to look. From the way William stiffened, eyes widening, she could tell she was not the only one suddenly feeling threatened.
 
@@ -1268,7 +1262,7 @@ At the very moment he spoke the name, a cloud passed over the sun dimming the li
 
 The young man nodded. He seemed eager to get to the end of his tale, and utterly oblivious to the shadow that had fallen over the library.
 
-“The book said it had dominion over those lost at sea, and Father was lost at sea, so I just put two and two together. I was scared, but Uncle Peter said that magic was actually a lot easier than people thought and that it was only old fools in overly starched collars who pretended it was hard, so as to stop other people getting their hands on real power. He said that magic was in our blood—the Petherham blood—and that one day he'd teach me...”
+“The book said it had dominion over those lost at sea, and Father was lost at sea, so I just put two and two together. I was scared, but Uncle Peter said that magic was actually a lot easier than people thought and that it was only old fools in overly starched collars who pretended it was hard, so as to stop other people getting their hands on real power. He said that magic was in our blood—the Petherham blood—and that one day he'd teach me…”
 
 His voice trailed off as he registered the terrible expression on Havelock's face. For a moment it seemed the Chaptermaster might actually hit Albert, but then he sighed and relaxed a little.
 
@@ -1276,17 +1270,17 @@ His voice trailed off as he registered the terrible expression on Havelock's fac
 
 Albert nodded. 
 
-“There were some things I didn't understand, and some things I couldn't lay my hands on. I've no idea where I'd get water from the lightless depths of the ocean but I got Blaylock to bring me back a jam jar of water from Scarborough when he visited his sister. I didn't know who Tiamat was, but I was able to find Typhon and Echidna in that Bullfinch book. It didn't have their sigils or anything but they seemed pretty snaky so I... I drew snakes on the places the book said to put the sigils.”
+“There were some things I didn't understand, and some things I couldn't lay my hands on. I've no idea where I'd get water from the lightless depths of the ocean but I got Blaylock to bring me back a jam jar of water from Scarborough when he visited his sister. I didn't know who Tiamat was, but I was able to find Typhon and Echidna in that Bullfinch book. It didn't have their sigils or anything but they seemed pretty snaky so I… I drew snakes on the places the book said to put the sigils.”
 
 His voice tailed off. Havelock was actually boggling at him.
 
 “Did I do something wrong?” he asked.
 
-“A great deal,” snapped Havelock. “Starting with summoning an ancient pre-Babylonian horror. Specifically though I am trying to work out how you are still alive and sane. Did you not think for one moment that what you were doing was incredibly stupid? Cobbling together jam jars of salt water and... and pictures of snakes! What did you think was going to happen?”
+“A great deal,” snapped Havelock. “Starting with summoning an ancient pre-Babylonian horror. Specifically though I am trying to work out how you are still alive and sane. Did you not think for one moment that what you were doing was incredibly stupid? Cobbling together jam jars of salt water and… and pictures of snakes! What did you think was going to happen?”
 
 Albert looked away.
 
-“I... I didn't really think about it, Uncle Ambrose.” He seemed very small and lost. “I suppose I didn't really expect anything to happen. It was like a puzzle—trying to work out how to get all the pieces together. Learning the chant. I wasn't really thinking about what would happen. I think I'd convinced myself that all I needed to do was talk to Father and he'd make everything... make sense.”
+“I… I didn't really think about it, Uncle Ambrose.” He seemed very small and lost. “I suppose I didn't really expect anything to happen. It was like a puzzle—trying to work out how to get all the pieces together. Learning the chant. I wasn't really thinking about what would happen. I think I'd convinced myself that all I needed to do was talk to Father and he'd make everything… make sense.”
 
 “So you performed the summoning.” It was a statement not a question.
 
@@ -1298,7 +1292,7 @@ He tailed off.
 
 “It didn't?” Havelock frowned. Albert spread his hands.
 
-“I didn't think so but now... I suppose it worked it just went wrong somehow.”
+“I didn't think so but now… I suppose it worked it just went wrong somehow.”
 
 Something had been niggling at Julia while Albert had been unburdening himself. “The ritual needs something specific,” she interjected. “Heart's blood. From the sacrifice-vessel. How did you get hold of that?”
 
@@ -1318,11 +1312,11 @@ In answer Albert unbuttoned his cuff and rolled up his sleeve to reveal a makesh
 
 “Damned thing won't stop bleeding though,” he said. “I've had a devil of a time hiding it. The bandage keeps soaking through. I've had to start tearing up bed sheets and blankets.”
 
-William moved quickly across and took Albert's arm carefully, deftly unwinding the cloth. The young man kept talking as the big doctor worked. “Like I said though, I didn't think it worked. The vault became very dark, all the oil lamps flickering and going out, and there was this smell—a stench really—and it got very cold. The lamp I had in the circle with me was the only light. I was absolutely terrified, I don't mind admitting. But that was it. It only lasted a minute or so, and then it just... faded away I suppose. It was enough to tell me I didn't want to be messing with this kind of thing though. I hid the stick in the shed, and washed the snakes off, and smuggled the rest of the things I'd borrowed back into the house, and told myself I'd find another way.”
+William moved quickly across and took Albert's arm carefully, deftly unwinding the cloth. The young man kept talking as the big doctor worked. “Like I said though, I didn't think it worked. The vault became very dark, all the oil lamps flickering and going out, and there was this smell—a stench really—and it got very cold. The lamp I had in the circle with me was the only light. I was absolutely terrified, I don't mind admitting. But that was it. It only lasted a minute or so, and then it just… faded away I suppose. It was enough to tell me I didn't want to be messing with this kind of thing though. I hid the stick in the shed, and washed the snakes off, and smuggled the rest of the things I'd borrowed back into the house, and told myself I'd find another way.”
 
 He had been speaking with growing confidence, and then his face suddenly fell.
 
-“Then mother was called up to Georgie's school, and she brought him back. As near as I can tell the first attack took place almost exactly a month after that night in the vault. I told myself at first it was just a coincidence, that Georgie had just taken ill or that he was faking to get out of school but...”
+“Then mother was called up to Georgie's school, and she brought him back. As near as I can tell the first attack took place almost exactly a month after that night in the vault. I told myself at first it was just a coincidence, that Georgie had just taken ill or that he was faking to get out of school but…”
 
 “But it became harder and harder to ignore what was happening,” concluded Lord Havelock. “And Amelia was wise enough to realise that it was nothing natural that was attacking Georgie. Why did it take her so dashed long to call on us, though?”
 
@@ -1338,7 +1332,7 @@ Albert sat up straighter, and looked Havelock in the eye for the first time sinc
 
 Albert looked shocked, and a little heartbroken at that.
 
-“I didn't want it like this!” he wailed. “I didn't want you coming here because a... a demon... is eating my little brother alive. I'd do anything to take it all back!”
+“I didn't want it like this!” he wailed. “I didn't want you coming here because a… a demon… is eating my little brother alive. I'd do anything to take it all back!”
 
 “Anything?” asked Havelock quietly.
 
@@ -1399,7 +1393,7 @@ Julia frowned. Havelock registered her expression.
 
 “Someone dead,” he clarified. “The dead know things. Secret things. They talk to each other, you see. There's not a lot else for them to do as I understand it. It's best not to dwell on the implications of that if you want to sleep at night, believe me.”
 
-“Do you not need... I don't know. Candles, and boards, and special tables and what not?”
+“Do you not need… I don't know. Candles, and boards, and special tables and what not?”
 
 “Nothing but distractions to fool the gullible, as my old teacher used to say. The right words, a circle of salt, and a hank of hair is all you need to raise a ghost if you have the Will.”
 
@@ -1433,7 +1427,7 @@ The circle drawn, Havelock clapped his hands together explosively.
 
 “Enough of that.” he said. “I'm now going to attempt with a circle of salt and a candle what Odysseus needed a trench full of milk, honey, water, wine, and the sacrifice of two sheep to achieve. In the event it goes wrong you should be safe but you know the rules, Miss Garvey.”
 
-“Don't make any bargains,” she quoted. “At least... unless it seems like the right thing to do, maybe?”
+“Don't make any bargains,” she quoted. “At least… unless it seems like the right thing to do, maybe?”
 
 Lord Havelock laughed then and a little of the tension went out of the air.
 
@@ -1459,11 +1453,11 @@ Between one breath and the next there was suddenly a figure in the circle of sal
 
 “Please, Havelock,” said the ghost. “You can spare a minute or two? It may have been three years for you but it has been an eternity for me. Is Bill well?”
 
-“He's fine,” said Havelock shortly. “He sends his regards but you know how he feels about... this kind of thing.”
+“He's fine,” said Havelock shortly. “He sends his regards but you know how he feels about… this kind of thing.”
 
 “Good old Bill,” said the ghost. It continued to smile its sad smile. “He never had much patience for this kind of foolishness. He always wanted to remember people the way they were when they were alive. Alive, and warm, and capable of joy.”
 
-“Edmund...”
+“Edmund…”
 
 “I know, Ambrose. I know. You wouldn't do this unless it was very important. That's what makes it so sad. I wish you'd come speak to me more often. It gets lonely, here, with only the dead for company.”
 
@@ -1495,17 +1489,17 @@ The ghost said nothing. It simply stood there staring at the Chaptermaster with 
 
 “It's a creature from one of Peter's books,” said Havelock as quickly as he could. “There was another vault, one we'd missed. Albert was trying to find the Society and accidentally summoned it up and now it's attacking Georgie. We don't have time for a more detailed explanation.”
 
-“Albert...” said the ghost. “It would be Albert, wouldn't it?”
+“Albert…” said the ghost. “It would be Albert, wouldn't it?”
 
 Its tone was thoughtful, introspective, as if it was talking to itself.
 
-“I worried about Albert,” said the spirit slowly. “Peter was too friendly with him. At first it seemed harmless enough but... Even before... what happened it started to worry me. Amelia didn't like it. She sensed something was wrong. I tried to ignore it, but...”
+“I worried about Albert,” said the spirit slowly. “Peter was too friendly with him. At first it seemed harmless enough but… Even before… what happened it started to worry me. Amelia didn't like it. She sensed something was wrong. I tried to ignore it, but…”
 
 It tailed off. Havelock narrowed his eyes.
 
 “Albert told us the last time Peter was here, you came suddenly and there was an argument?
 
-“A fight more like,” said the ghost. “Amelia summoned me from London, beside herself. She was worried that Peter was going to try and take Albert away with him. I came as quickly as I could. We fought. I told Peter I didn't want him coming to the house when I wasn't there, and that I didn't want him filling Albert's head with nightmares. I told him some of what Bill had said, and it made him furious. I think... I think that was the point I realised something was very wrong. That my brother had designs on his nephew that were not altogether wholesome.” 
+“A fight more like,” said the ghost. “Amelia summoned me from London, beside herself. She was worried that Peter was going to try and take Albert away with him. I came as quickly as I could. We fought. I told Peter I didn't want him coming to the house when I wasn't there, and that I didn't want him filling Albert's head with nightmares. I told him some of what Bill had said, and it made him furious. I think… I think that was the point I realised something was very wrong. That my brother had designs on his nephew that were not altogether wholesome.” 
 
 The ghost leaned forward, flickering between solid and ethereal. Its expression was earnest.
 
@@ -1533,7 +1527,7 @@ Realisation hit Havelock.
 
 The ghost shook its head.
 
-“No, Havelock,” it said gently. “I've told you before. I went to Peter because he was my brother and I loved him, and because I was sure that he would listen to me. But yes, you are right in a way. When it was clear I wasn't going to join him willingly, Peter used his jar on me, and made me go with him. If I'd had Walston's amulet... but I didn't. For the first time since I joined the Society, I didn't have it. And then I died. Just like Old Walston, and like father, and like everyone who wore the amulet between us.”
+“No, Havelock,” it said gently. “I've told you before. I went to Peter because he was my brother and I loved him, and because I was sure that he would listen to me. But yes, you are right in a way. When it was clear I wasn't going to join him willingly, Peter used his jar on me, and made me go with him. If I'd had Walston's amulet… but I didn't. For the first time since I joined the Society, I didn't have it. And then I died. Just like Old Walston, and like father, and like everyone who wore the amulet between us.”
 
 “Protection from outside influence,” interjected Julia excitedly. “The Makara is meant to inhabit the vessel provided by the summoner, but the amulet meant it couldn't take possession even if Albert wanted it to.”
 
@@ -1621,7 +1615,7 @@ He leaned down and pinched the wick of the candle extinguishing it. By the time 
 
 “He didn't seem very pleased to see you.” Julia regretted her tone almost immediately but Havelock just sighed.
 
-“He was at first. It was all very sad. Then he started to resent the fact that I kept calling on him. Using him, I suppose. I never did it lightly, you must believe me. But the dead... they aren't always the same as we remember them being when they were alive. Every time it gets harder and harder to get Edmund to cooperate with me, and harder and harder to send him back into the underworld. I imagine something will go horribly wrong long before I run out of hair.”
+“He was at first. It was all very sad. Then he started to resent the fact that I kept calling on him. Using him, I suppose. I never did it lightly, you must believe me. But the dead… they aren't always the same as we remember them being when they were alive. Every time it gets harder and harder to get Edmund to cooperate with me, and harder and harder to send him back into the underworld. I imagine something will go horribly wrong long before I run out of hair.”
 
 He spoke matter of factly, not really looking at Julia.
 
@@ -1629,7 +1623,7 @@ He spoke matter of factly, not really looking at Julia.
 
 They were nearly at the house.
 
-“Bill thinks it's my fault,” he said, shaking his head slightly. “That the more I call him up, the more I wear away at who he was and the more I turn him into a sort of angry spirit, consumed by jealousy  for the living, forgetting who he was and who I am. I worry sometimes that he's right. But... the dead know many secrets.”
+“Bill thinks it's my fault,” he said, shaking his head slightly. “That the more I call him up, the more I wear away at who he was and the more I turn him into a sort of angry spirit, consumed by jealousy  for the living, forgetting who he was and who I am. I worry sometimes that he's right. But… the dead know many secrets.”
 
 He touched her on the arm then, gently.
 
@@ -1672,7 +1666,7 @@ The blood fled from her face, and she clenched her fists so tightly her knuckles
 
 Julia was about to interrupt and remind him that the banishing rite was not going to work—but there was no chance he had forgotten that. He was simply lying to Lady Petherham.
 
-“You expect me to stand by while you work.... work witchcraft on my Georgie? Stand by and do nothing?”
+“You expect me to stand by while you work…. work witchcraft on my Georgie? Stand by and do nothing?”
 
 “Not exactly. I need you and the Blaylocks to be ready for the aftermath. We'll need hot water and warm blankets and medical supplies. We'll need to know you are out of harm's way, so we can stop worrying about you getting hurt and do what needs to be done.”
 
@@ -1733,7 +1727,7 @@ She took a deep breath, and shot a quick glance to where Albert and William were
 
 “I'm sure the circles will be very effective,” he said, a little clumsily.
 
-“I'm glad one of us is,” she whispered harshly. “The last one didn't even slow the creature down. I doubt these are going to do anything at all, and Georgie is going to....”
+“I'm glad one of us is,” she whispered harshly. “The last one didn't even slow the creature down. I doubt these are going to do anything at all, and Georgie is going to….”
 
 She tailed off.
 
@@ -1818,7 +1812,7 @@ Albert seemed paralysed. Havelock shook him.
 
 Stumbling over the words, Albert raised his stick and spoke in a trembling voice.
 
-“Go... go back where you came. I called you and now I am... now I send you back! Go back!”
+“Go… go back where you came. I called you and now I am… now I send you back! Go back!”
 
 The Makara paused. It tilted its head, as if listening. Then it resumed moving toward Georgie, Julia, and William.
 
@@ -1872,7 +1866,7 @@ Albert had a moment to turn is head to look at Havelock—one look of utter betr
 
 It was over in an instant; where before there had been the young man and the horror, now there was only one.
 
-“Albert...?” asked Julia tentatively.
+“Albert…?” asked Julia tentatively.
 
 But no. It was not Albert. Not any more.
 
@@ -1902,7 +1896,7 @@ The thing that had been Albert Petherham teetered for a moment on the threshold,
 
 Havelock was helping Bill up, so it was only Julia looking at the dark abyss as it began to close. Only Julia who saw, horribly, unspeakably, the immense red eye in the depths staring straight at them. She couldn't breathe or move, and for one terrible moment she thought that they had failed, that the Makara was going to force itself bodily into the vault – not a puppet or an extrusion but the actual leviathan creature itself, furious beyond comprehension—
 
-thirsting for vengeance against the little mortals that had denied it its sport...
+thirsting for vengeance against the little mortals that had denied it its sport…
 
 
 ### 
@@ -1922,9 +1916,9 @@ Lady Petherham was running across the lawn towards them in her night dress, her 
 
 She spotted the amulet almost immediately.
 
-“Edmund's medallion....” she asked. Her eyes were read with tears as they sought out Havelock.
+“Edmund's medallion….” she asked. Her eyes were read with tears as they sought out Havelock.
 
-“Yes,” he said, clutching his side. “And if you love the boy you must make sure he never removes it. If he does... well. It's likely to go badly for him.”
+“Yes,” he said, clutching his side. “And if you love the boy you must make sure he never removes it. If he does… well. It's likely to go badly for him.”
 
 “Where did you…?” she began and then her voice faltered. She looked past Havelock, and then at Julia and William, her face a mask of fear and terrible understanding.
 
@@ -1955,7 +1949,7 @@ Havelock shook his head. Lady Petherham and the Blaylocks had returned to the ho
 
 “Georgie wouldn't have survived until the next new moon. He'd have been lucky to live out the night.” said Havelock. He sounded exhausted. “And what if he did live? You heard Edmund. Even if he'd survived to the next new moon, the banishing rite itself would have killed him. And if we'd let the Makara take him? It wouldn’t have stopped. After Georgie it would have moved on to Amelia.”
 
-“We had Peter's entire library,” she said hotly. “We might have been...”
+“We had Peter's entire library,” she said hotly. “We might have been…”
 
 “Might?” snapped Havelock. “What use is might? Georgie was on the edge, clinging on with his fingertips. And what in God's name makes you think that Amelia would have fared better? A grieving mother who has lost her child on top of everything else? Do you think she would have had the strength to resist the thing? And then what? The beast leaps to India! To Victor! What chance would we have of getting to him in time do you think?”
 

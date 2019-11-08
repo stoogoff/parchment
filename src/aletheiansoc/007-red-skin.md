@@ -2,9 +2,8 @@
 title: Red Skin
 collection: aletheiansoc-stories
 sort: 7
+template: tpl/aletheiansoc/main.html
 author: Jude Reid
-bio: |
-  JUDE REID writes horror stories to unwind in the gaps between full time work, chasing after her kids and trying to wear out a border collie. She is an avid Zombies! Run fan, a keen student of ITF Tae Kwon Do and drinks a powerful load of coffee.
 image: red-skin.png
 caption: I saw first a bare, bloody arm break the surface, then a moment later the hideous, elongated, skinned head…
 ---
@@ -86,7 +85,7 @@ She shook her head. “No, Miss Bird. Up by Black Canyon.”
 
 “And the body?”
 
-Mrs Evans pointed to the cattle shed. “It’s an awful thing to happen -...” She seemed to check herself, and I wondered if she was going to continue her sentence. She did not. The little Scotswoman seemed profoundly uneasy—but then, I suppose even in these rough frontier villages sudden death by bear was enough to shake the hardiest of souls.
+Mrs Evans pointed to the cattle shed. “It’s an awful thing to happen -…” She seemed to check herself, and I wondered if she was going to continue her sentence. She did not. The little Scotswoman seemed profoundly uneasy—but then, I suppose even in these rough frontier villages sudden death by bear was enough to shake the hardiest of souls.
 
 “My condolences,” I said, and waited until my hostess had returned inside. Such was the uproar in the hamlet that I could make my way undisturbed to the cattle shed, and even before I entered, I could smell the sharp, iron tang of freshly spilled blood.
 
@@ -100,7 +99,7 @@ I heard a noise behind me, and hastily replaced the sheet before turning, expect
 
 I think I must have screamed at the sight, and it was only when the head turned and I saw the rest of the face that I realised what I had taken for a monster was only a mortal man after all—the left side of his face hideously disfigured, but the other commonplace enough. No, I thought a moment later—the face was anything but commonplace. Before his ghastly injuries, the man must have been strikingly handsome. Under an unkempt mop of tawny curls, a piercing blue eye regarded me appraisingly. The unspoilt side of his mouth was a smooth, sensual curve, and the line of his jaw, beneath a day’s stubble, was strong and resolute. From the one side, his profile was fit to grace a coin—from the other, it was as though a child had scribbled over a beautiful portrait hard enough to score through the paper.
 
-“I... beg your pardon,” I said, knowing that I had stared for longer than courtesy would permit.
+“I… beg your pardon,” I said, knowing that I had stared for longer than courtesy would permit.
 
 “You a friend of Billy Lamb?” he asked. I thought I detected a hint of an English accent below the stockman’s drawl. 
 

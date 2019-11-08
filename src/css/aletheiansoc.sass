@@ -7,7 +7,7 @@ $fontMargins: 11pt "Playfair Display"
 
 // PDF page layouts
 @page
-	size: A5 portrait
+	size: 5.5in 8.5in portrait
 	margin: 3cm 1.9cm 2.54cm
 	margin-inside: 2.54cm
 
@@ -48,7 +48,7 @@ $fontMargins: 11pt "Playfair Display"
 		content: normal
 
 
-$chapters: "7", "12", "22", "44", "66", "82", "106", "132", "164"
+$chapters: "6", "10", "20", "44", "66", "82", "108", "134", "166"
 
 @each $chapter in $chapters
 	@page :nth(#{$chapter})
@@ -71,6 +71,22 @@ h1.uppercase
 	text-align: center
 	margin-bottom: 2em
 
+h2
+	font-weight: normal
+	font-size: 12pt
+	font-family: "Playfair Display"
+	text-align: center
+
+h4
+	margin-bottom: 0.5em
+	text-decoration: underline
+
+h5
+	margin-bottom: 0.5em
+	font-size: 12pt
+	font-weight: normal
+
+
 header
 	padding-top: $pageTop
 	break-after: page
@@ -81,12 +97,6 @@ header
 		font-size: 30pt
 		font-family: "Great Vibes"
 		font-weight: normal
-		text-align: center
-
-	h2
-		font-weight: normal
-		font-size: 12pt
-		font-family: "Playfair Display"
 		text-align: center
 
 article
@@ -140,15 +150,34 @@ figcaption
 		font-size: 16pt
 		content: "”"
 
+aside
+	break-inside: avoid
+
 hr
 	border: 0
+	font-family: "Font Awesome 5 Free"
 
 	&:after
-		content: "***" // change this
+		content: "\f06d"
 		display: block
 		text-align: center
-		padding: 0.5em
+		padding: 1em
 		break-before: avoid-page
+
+ul
+	margin: 0.5em 0 1em
+	padding: 0 0 0 1.5em
+
+	li
+		break-inside: avoid
+
+
+.underline
+	text-decoration: underline
+
+.centered
+	text-align: center
+	break-inside: avoid
 
 .shadow-factories
 	font: 18pt "Great Vibes"
@@ -161,16 +190,16 @@ hr
 article
 	page: article
 
-section.front-matter, header, figure
+div.front-matter, header, figure
 	page: front-matter
 	break-after: page
 
-section.story
+div.story
 	page: story
 	break-before: left
 
 // page specific styles
-#title-page
+#title-page, #blurb
 	text-align: center
 
 	h1
@@ -182,13 +211,25 @@ section.story
 			font: 22pt "Playfair Display"
 			text-transform: uppercase
 
-	p
-		margin: 6em 2em 1em
-		font: 10pt "Playfair Display"
+#title-page p
+	margin: 6em 2em 1em
+	font: 10pt "Playfair Display"
 
-		&:last-child
-			margin-top: 0.5em
-			font-size: 14pt
+	&:last-child
+		margin-top: 0.5em
+		font-size: 14pt
+
+#blurb
+	h1
+		margin-bottom: 0.5em
+
+	h2
+		text-transform: uppercase
+		margin-bottom: 2em
+
+	p
+		text-align: left
+		font-size: 14pt
 
 
 #copyright p
@@ -224,8 +265,6 @@ section.story
 
 
 #foreword
-	break-before: right
-
 	header
 		padding-top: 0
 		page: article
@@ -242,3 +281,11 @@ section.story
 		font: 18pt "Great Vibes"
 		display: block
 		padding: 1em 0
+
+#escape-room
+	blockquote
+		margin-left: 0
+		margin-top: 2em
+
+		&:not(:first-of-type)+p:first-letter
+			font-size: 12pt

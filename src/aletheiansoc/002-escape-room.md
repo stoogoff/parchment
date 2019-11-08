@@ -2,26 +2,24 @@
 title: Escape Room
 collection: aletheiansoc-stories
 sort: 2
+template: tpl/aletheiansoc/main.html
 author: Iain King
-bio: |
-  IAIN KING is a game developer based in Glasgow, Scotland. He likes games, be they board, card, video or roleplaying; programming; and making stuff. They told him he had to write a one hundred word bio, but he figured they could take fifty eight and like it. You can see what he's up to at onelivesleft.com
 image: escape-room.png
 caption: …the most compelling little effigy…
 ---
 
-_The Diary of Wilcott Umberton_
-
-_March 12th, 1868_
+> The Diary of Wilcott Umberton  
+> March 12th, 1868
 
 Ah, to be content! It is an uncommon feeling, especially so when contrasted with my prior existence. Months of infernal day and frozen night (with the canvas of a tent the only boundary between oneself and savage nature!) will give a man a disagreeable temperament, an adversarial predisposition. The great vastness of the desert—the limitlessness in its absence of boundaries—instils a sense of such utter solitude in the observer, a profound, lonely disconnect. Though I have been home near a week it is only this evening that the sense of belonging has been restored in my heart, allowing one to forget those harsher climes and bask in the civilised comfort of leather upholstery, hearty brandy, the warmth of good English coals, and the amiable companionship of one’s fellows: Aldershot dozes peaceably in the study’s other armchair as I write, the soothing ambience of the firelight reflecting on his balding pate. 
 
 Meanwhile, Amelia has taken herself off to bed in the east wing with young William, as is her habit when I entertain old friends. My good lady wife was ever a light sleeper, and will never be convinced that the raucous hijinks and boisterous discourse of our youthful soirées have long since yielded to conversation of a more phlegmatic nature. I believe she expects to find Aldershot and me in the morning, discarded upon the lawn like a be-soused and neglected croquet set. Aldershot! If the man were any more sedentary (and perhaps a little less comprehensive…) he might be mistaken for cushionry! 
 
-I imagine she’ll be looking forward to Gertie’s arrival tomorrow—I doubt she’s experienced much female companionship since the babe’s arrival (barring the maid’s twice weekly visits), and she must be positively distent with the desire to show the child off. However, I fear she may be disappointed in her audience; were it any other member of the fairer sex I would say that ogling the child be the point of the visit, with the _official _reason (to wit, examining the choicer relics I brought back from the expedition) merely a subterfuge to that end. While Gertie will certainly make the requisite genuflection to the maternal sisterhood out of simple good manners, a woman less interested in the fruits of procreation is not to be found, and I’d bet tuppence against a ha’penny that her visit would not be occurring were it not for my artefacts. 
+I imagine she’ll be looking forward to Gertie’s arrival tomorrow—I doubt she’s experienced much female companionship since the babe’s arrival (barring the maid’s twice weekly visits), and she must be positively distent with the desire to show the child off. However, I fear she may be disappointed in her audience; were it any other member of the fairer sex I would say that ogling the child be the point of the visit, with the _official_ reason (to wit, examining the choicer relics I brought back from the expedition) merely a subterfuge to that end. While Gertie will certainly make the requisite genuflection to the maternal sisterhood out of simple good manners, a woman less interested in the fruits of procreation is not to be found, and I’d bet tuppence against a ha’penny that her visit would not be occurring were it not for my artefacts. 
 
 Or perhaps _artefact_, singular, since when I described the assorted pieces to her in London it was obvious that one carving captured her attention—the carving I brought through to the study this evening to show Aldershot, though I confess I then monopolised its possession frightfully. Examining it by the firelight it became the most compelling little effigy, and I found myself tracing the pattern of its coils with my fingertips, the route of its scales over its body, turning it over and over in my hands until I found myself holding its lidless gaze; quite the accomplishment for the sculptor, who lived and died perhaps three millennia ago! Say what you will about the accomplishments of modern England and our great sweeps forward in technological and industrial might, there is an argument that the greatest feats are accomplished by a talented and diligent man wielding a simple yet effective implement!   
 
-_March 12th, 1868 (continued!)_
+> March 12th, 1868 (continued!)
 
 The most extraordinary thing just occurred, which compelled me to open my diary once more and add another entry to this day. I have just experienced the sensation of déjà vu, but with much more clarity… in a much more vivid manner than the usual vague inkling of repetition which one may occasionally encounter. 
 
@@ -33,17 +31,22 @@ What happened then was queer! I found myself to be sitting forward in the chair,
 
 He responded to my barrage in confusion: He had been in the chair for hours. He had not yet left for bed—though he was bloody well going now! That I was clearly in a state of agitation presumably allayed his temper at my accusations of foul play, and he allowed I should go to bed and that it would all be better in the morning. That he was performing some abstract practical joke upon me seemed the most reasonable explanation for his reappearance, and yet it would be such a strange prank… had he acquired the art of the mesmer? How else could I be made to sleep and then be awake without waking? Unless I simply fell asleep in the chair and dreamt his earlier departure… 
 
-I will sleep on it, and address it with him again in the morning._   _
+I will sleep on it, and address it with him again in the morning.
 
-_With blackest moss the flower pots_
+***
 
-_were thickly crusted, one and all._
+<div class="centered">
 
-_The rusted nails fell from the knots_
-
+_With blackest moss the flower pots_  
+_were thickly crusted, one and all._  
+_The rusted nails fell from the knots_  
 _that held the pear to the gable wall._
 
-_March 12th_
+</div>
+
+***
+
+> March 12th
 
 I write this after careful cogitation—in this incorporation I have sat and thought for the last few hours (this Aldershot once again seemingly asleep by the fire)—and have reached the following conclusion: one of two things is occurring. 
 
@@ -51,19 +54,19 @@ The first (and most conceivable) possibility is that my mind has become afflicte
 
 The second possibility is that I am caught in an experience of supernatural origin; I am in a place (or time!) which is not ordained by natural law. To wit, the act of writing this down is without the normal purpose of such writings:_ to be read_. I write it to make clear my own thoughts, and to aid in my ability to keep track of what is occurring, knowing that very shortly this page will once more be blank. 
 
-This is the third time I have tried to write an entry after the one on the previous page (_March 12th, 1868)_. Every time I snap to from the gaze of the serpent I find everything as it was at that time (which incidentally appears to be a quarter to nine, judging by the clock sitting on the fireplace). Anything I write down after that point will be lost when I emerge in the next embodiment. 
+This is the third time I have tried to write an entry after the one on the previous page _(March 12th, 1868)_. Every time I snap to from the gaze of the serpent I find everything as it was at that time (which incidentally appears to be a quarter to nine, judging by the clock sitting on the fireplace). Anything I write down after that point will be lost when I emerge in the next embodiment. 
 
 As to what triggers each of my reappearances… that is something I must endeavour to discover. The first time it happened while I was asleep, but the next two times it happened when I attempted to leave the room: as soon as I stepped through the doorway I found myself once more in the armchair by the fire with the relic. Could someone have attempted to carry me out of the room while I slept? 
 
 That these happenings are tied to the relic I have no doubt, but what the relic represents, what the relic _is_, I do not know. I unearthed it in the Seleucid dig at Eridu, but it was clearly out-of-place, seemingly much older than the other artefacts found nearby; plunder of the satrap no doubt, Babylonian or perhaps Akkadian in origin. I will look through the bookcases here in the study, but I fear that all the relevant volumes will be found in the library, which seems to be out of my reach. 
 
-_Embodiment Seven_
+> Embodiment Seven
 
 It is the dawn. My sleep is not necessary, simply waiting until sunrise suffices—I know because I have stayed up, gazing out the window at the lightening treeline. I retrogress to the armchair whenever I cross the threshold of the room, or at the moment before the dawn breaks.
 
 I should document my experimentations: Acting on my belief that the idol is the root of my predicament, I have tried manipulating it physically, either to discontinue its effect, or to provide me protection against it. I have tried moving it around the room, averting its gaze, rotating it, hiding it… all to no avail. For a moment I felt a glimmer of triumph; an idea occurred to me which felt so correct, so fitting, I was sure I had its number… but no: carrying it with me as I stepped across the doorway had no effect.
 
-_Embodiment Nine_
+> Embodiment Nine
 
 No luck with the books in here; I have some technical journals dealing with digs in Egypt, and one discussion on the deities of the tribes of South America (the Amazon will be my next destination, God willing I escape this tomfoolery), but I’ve found nothing even tangentially localised to Mesopotamia. 
 
@@ -71,7 +74,7 @@ I stare at the idol, wracking my memory of the gods and demons of Babylon—a su
 
 I try to remember where in the vault it was located, which artefacts were near it, what the reactions were of the diggers sourced from the local population… nothing is jarring, nothing provides me with a spark of inspiration.
 
-_Embodiment Eleven_
+> Embodiment Eleven
 
 I feel now imprisoned, and I wonder at its extent. Aldershot is clearly as trapped as I, even if he is perpetually unaware of his circumstance. I had not before realised what a curmudgeonly soul he is—I have attempted to have him fetch me books from the library, but no matter how I entreat, cajole, command or threaten, he will not be bid. On the occasions I manage to rouse him from his chair the result is always his retreat to his bed. 
 
@@ -81,11 +84,11 @@ I presume the rest of the world continues without us—the notion that I have do
 
 N.B. No luck with the windows.
 
-_Embodiment Thirteen_
+> Embodiment Thirteen
 
 The bloody thing is indestructible! Smashing the idol had seemed like such a precipitate action that I have held off until now—what if it were the key to unlocking our prison, and broken left us trapped forever? I picture myself, eternally pacing around the broken shards of scaled rock, never truly knowing if escape were ever a possibility but unable to put the idea from my mind that I had destroyed the only means of emancipation… My prudence was a nonsense—as soon as the poker struck I reverted. I never even heard the connecting blow. A third way to retrogress!
 
-_Embodiment Fifteen_
+> Embodiment Fifteen
 
 I long for my wife, but she is too far for my calls to reach her, and Aldershot will no more take a message to her than run an errand to the library. The man is without sympathy, and I wonder why I ever put stock in him as a friend. My habit now is to rouse him as soon as I regress, turf him out and to his room so I don’t have to put up with his foul presence (or his snoring!) 
 
@@ -97,27 +100,33 @@ In the mirror I look the same; I always look the same. Apart from the moustache,
 
 My body is changing back to exactly how it was in that instant, and yet my memories and experiences remain and transpose over the moment of regression… how can this be if my consciousness is simply the manifestation of my biology, the contents of my brain? This is surely evidence of the soul, those pompous nitwits at King’s be damned! If only this knowledge would lift me… but it serves only to make our entrapment all the more unbearable.
 
-_Embodiment Twenty-seven_
+> Embodiment Twenty-seven
 
 Can this be my fate, to rot forever in this cycle of purgatory? To never again see dear Amelia or sweet William? It is beyond endurance, and I would sooner face the flames of the inferno than allow them to remain trapped in perpetuity. It is becoming clearer and clearer to me that the curse is my own, and there is one, obvious way to break it. 
 
 A revolver or sharp blade would be pleasant, but my belt will suffice. One more reversion, so I can leave a note for Amelia…
 
-_Beloved_
+> Beloved
 
 Forgive me, my love. I cannot explain why I have done what I have done, but only hope that afterwards events will unfold and continue as they always should have, and that this page will remain my final message to you. Forgive me, my love, and remember me. 
 
 Remember me to William.
 
-_Embodiment Twenty-nine_
+> Embodiment Twenty-nine
 
 There are four ways to retrogress.
 
+***
+
 It seems there is no way out, save perhaps that this can only occur a finite number of times. In a fit of mania I tried to test this: God alone knows how many times, but something in me snapped, and I have been leaping from the chair, bounding across the room, wrenching the door open and crossing… over and over. There is no way to know how many times: I cannot grow tired, as my muscles return to being well rested after every repetition—I could go on without surcease for all of eternity—and so I have lost track. I have lost count. It is of no matter; should there be a limit to how many retrogressions can occur, I doubt I will ever reach it.
+
+***
 
 I fear that my original supposition that I must accept a supernatural happening as a tautological argument for sanity may have been without merit, as even if I did start with my sanity intact, it is being taken from me.
 
 I no longer know how many embodiments there have been; in truth I was unsure even before my mad exertion. I have been retreating into dreams—each time I awake I simply drink the remainder of the brandy bottle; a balm to send me on my way back to sleep, back to dreams. My dreams are my escape; sometimes I dream of Amelia, and those dreams are the best. Dreams are now my life, sweet Orpheus keep me.
+
+***
 
 It has been so long since I have applied reason to my actions, rational thought aimed at progress, aimed at escape. To have suddenly made a breakthrough is quite breathtaking. The hope is painful in my chest as it is brother to despair; the fear of disappointment, the fear of it being dashed once more. 
 
@@ -129,18 +138,22 @@ I did not regress! I found myself in the hall, looking around in wonder, until m
 
 But oh—a progression! A new piece of the puzzle, for surely if one door may be bypassed then so might another! He snores beside me once more, now no longer merely a source of animus, but also of opportunity. Amelia! I am coming!
 
+***
+
 My optimism for once more seeing my wife was presumptive: there is a closed door between myself and the stairs to the east wing, a boundary as much as the front door of the house. My hopes remain high, however, as progress is being made. I will solve this riddle! I will see her once more! 
 
 Strangling requires a lot of exertion, and is quite uncivil; I now use the poker instead. Two quick blows are all that is required, and the house opens up to me. I have made a cursory exploration, resulting in more deductions:
 
+* Closed doors are barriers: any time I need to open a door to enter a room, I will retrogress as soon as I step through. 
+* Open doors do not have this behaviour. Indeed, I have discovered that the one counters the other; the library has two entrances, of which one had thankfully been left open. I have discovered that I can open and step through the closed library door with no ill effect.
+* I reconnoitred all of the windows, hoping for one which had been left open which would let me escape the house. I discovered none, but upon logical cogitation I realise now there can be no functioning openings to the outside world—no drain or pipe or access hatch—because by the above two discoveries if any such opening existed then the front door would allow egress. 
+* And now, to the library!
 
+***
 
-*   Closed doors are barriers: any time I need to open a door to enter a room, I will retrogress as soon as I step through. 
-*   Open doors do not have this behaviour. Indeed, I have discovered that the one counters the other; the library has two entrances, of which one had thankfully been left open. I have discovered that I can open and step through the closed library door with no ill effect.
-*   I reconnoitred all of the windows, hoping for one which had been left open which would let me escape the house. I discovered none, but upon logical cogitation I realise now there can be no functioning openings to the outside world—no drain or pipe or access hatch—because by the above two discoveries if any such opening existed then the front door would allow egress. 
-*   And now, to the library!
+My studies progress in earnest. My initial gambit was to narrow down the scope of study to its finest margin; Babylonian mythology. This gave me a very small number of volumes to work with, which I thought a boon as I could concentrate on them fully and hopefully discover an answer. However, this was not to be; Fraser, Sir Austen, and even the Rennell have proven to be without fruit. It appears our knowledge of the ancient Babylonians is sparse at best, including their theology (especially from before the Akkadian religion became stratified into a hierarchical structure), and nothing I read seems to have any relevance to the effigy of a doorway and snake. I have thus expanded my studies to include all ancient religions. I have not studied like this since I was at Cambridge, and I am surprised and delighted to find I can still take pleasure in it, even in these perverse circumstances.
 
-My studies progress in earnest. My initial gambit was to narrow down the scope of study to its finest margin; Babylonian mythology. This gave me a very small number of volumes to work with, which I thought a boon as I could concentrate on them fully and hopefully discover an answer. However, this was not to be; Fraser_, _Sir Austen, and even the Rennell have proven to be without fruit. It appears our knowledge of the ancient Babylonians is sparse at best, including their theology (especially from before the Akkadian religion became stratified into a hierarchical structure), and nothing I read seems to have any relevance to the effigy of a doorway and snake. I have thus expanded my studies to include all ancient religions. I have not studied like this since I was at Cambridge, and I am surprised and delighted to find I can still take pleasure in it, even in these perverse circumstances.
+***
 
 Oh, the gift of simple conversation! 
 
@@ -150,7 +163,9 @@ Last night, enthralled as I was in the volumes I had before me, I took them with
 
 Fitzsimmons was his name: Amelia, knowing Gertrude was arriving, had sent for more provisions, and this delightful old man was delivering them from the village. All woollen gloves and flat cap and “how’s you do?” / tugs forelock; marvellous! I think he was quite taken aback by how garrulous his host was, and though initially (and quite correctly) reticent to talk with one whose class was so different from his own my obvious enthusiasm won him over, and though our conversation was limited by his ignorance it was most enjoyable, until that terminating moment before the dawn brought our discussion to an end.
 
-Apart from the boost in spirit his cameraderie has provided me, his presence, if I am correct, also provides me with the means to finally, after what feels like an eternity, see my wife once more!
+Apart from the boost in spirit his camaraderie has provided me, his presence, if I am correct, also provides me with the means to finally, after what feels like an eternity, see my wife once more!
+
+***
 
 It is strange, when a thing plays out which you have anticipated for so long you almost do not believe it will ever possibly come to pass. Seeing dear Amelia once more was… impossible to describe. Her beauty, her spirit; I felt as though I could see the warmth of her soul pouring from her eyes. 
 
@@ -159,6 +174,8 @@ Of course, to her we had been apart mere hours, and so my proclamations of love 
 I had waited all night in the kitchen, poker in hand (I had cleaned Aldershot from it, I suppose out of good manners). It was quite the most anxious feeling, waiting and waiting. I brought a book to read from the library, but could not do so: I could not concentrate, could not think of anything except the beat of my heart and the writhing in my stomach. I paced back and forth all night, unable even to sit.
 
 Surprisingly, the pinnacle of stress came not as I heard his footsteps, or even as he stepped into the kitchen; it came later, as I stood before the doorway leading to the east wing, all my hope confirmed or denied by the next step… and then there was Amelia!
+
+***
 
 It has been some time since I last wrote here; being with my wife and son again has been exhilarating, enervating… some joy has returned to my life, and I am once more filled with purpose.
 
@@ -169,6 +186,8 @@ As expected, the courtyard wall proves to be the next barrier; though its door l
 There is no boundary beyond it; should I be able to puncture this last layer I believe the curse will be broken. The only portal beyond the courtyard is the gates to the estate, but they are never closed. Beyond them is England, and the world at large, and I do not believe there exists a doorway between the land and the sea!
 
 I have access to the entire house now, everything in it is mine to use to defeat the serpent. I will free us! I will work out its riddle, I will break the cycle!
+
+***
 
 How long have I studied? How many times have I read the same books, over and over? Were I to free us, I would be the most knowledgeable man in England, at least about the contents of my own library, but it is a farce. I have found nothing! 
 
@@ -184,7 +203,11 @@ This too: I do not want my beloved wife to be imprisoned for eternity, even if w
 
 I know what I must do.
 
+***
+
 I cannot bring myself to leave. Amelia lies upstairs, her eyes uncomprehending; unaccusing, but oh-so wounded. My intellect tells me I must act, but standing before the courtyard doorway I could not make myself take that step. It lies open, but to cross it will confirm we are parted forever. I know I should take the step, but I do not know if I can, and the dawn is not far away.
+
+***
 
 I sat in the courtyard unable to cross the threshold, regretting that even in my inaction, the rising sun would confirm my success, and my sorrow. Then the moment before the dawn came, and I retrogressed once more. Somehow, the curse is still in effect, and I must find out why. Was Amelia not a worthwhile sacrifice? It seems absurd… could the serpent only accept men as worthy offerings? I will carry out my role once more, and test the threshold I have not crossed.
 
@@ -194,30 +217,24 @@ Aldershot! The odious, abdominous prick! I would spend eternity torturing his lo
 
 There is only one option left; I can only hope that the estate fence is indeed the outer boundary for the phenomenon, the final layer which must be pierced to break our chains. I pray to God, and to the serpent (whatever ancient deity or demon it represents) that though my own life had no effect when all the barriers were erect, that it is enough to pierce this one last shell of devilry. One more death is all that is needed, one more death to open the endmost gate, and William will live. God willing, this will be my final entry: our souls will be free, and my son will live!
 
+***
 
+#### Incident at Umberton Manor, cover sheet
 
-_<span style="text-decoration:underline;">Incident at Umberton Manor, cover sheet</span>_
+* MEMBER EYES ONLY
+* F.A.O: Antiquities & Relics
+* Gertrude Pike, M.i.G.S
+* 1868.03.13
 
+##### Idol:
 
+* Sumerian, 3rd D.o.Ur. A&2. Dormant(-).
+* Likely _Haya_ (scribes, doors), unconfirmed.
+* Potentially tactile, A.E.C, HwC!
 
-*   _MEMBER EYES ONLY_
-*   _F.A.O: Antiquities & Relics_
-*   _Gertrude Pike, M.i.G.S_
-*   _1868.03.13_
+##### Details on site and casualties overleaf, I highlight two peculiarities here:
 
-_Idol: _
-
-
-
-*   _Sumerian, 3rd D.o.Ur. A&2. Dormant(-)._
-*   _Likely _Haya _(scribes, doors), unconfirmed._
-*   _Potentially tactile, A.E.C, HwC!_
-
-_Details on site and casualties overleaf, I highlight two peculiarities here:_
-
-
-
-*   _One gate to estate closed, one open. Doors left such that route to each body possible without need to open. Could be hasty exit of perpetrator, though Umberton likely vector + was found inside. Check Withershaw, 1824._
-*   _Diary found beside Umberton (included). Last two entries relevant, though confusing; suggest application of horus lens and/or oracular moerae. Penultimate entry dated March 12th describes the day before my visit. Final entry I transcribe here:_
+* One gate to estate closed, one open. Doors left such that route to each body possible without need to open. Could be hasty exit of perpetrator, though Umberton likely vector + was found inside. Check Withershaw, 1824.
+* Diary found beside Umberton (included). Last two entries relevant, though confusing; suggest application of horus lens and/or oracular moerae. Penultimate entry dated March 12th describes the day before my visit. Final entry I transcribe here:
 
 There are but two possibilities. Either there is another boundary layer beyond the estate, or my life is not an acceptable sacrifice. For our souls I must find out which. For our souls, I must.

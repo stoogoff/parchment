@@ -2,9 +2,8 @@
 title: Farewell Mary Kelly
 collection: aletheiansoc-stories
 sort: 4
+template: tpl/aletheiansoc/main.html
 author: Stoo Goff
-bio: |
-  STOO GOFF is a writer, musician and programmer hailing from Norwich and now living in Glasgow. When not buried beneath a mountain of programming code or torturing guitars he can be found creating strange new lands and conjuring dreams from nothing. He is heavily influenced by a number of writers and musicians, including: Tom Waits, Ursula Le Guin, Trent Reznor, Neil Gaiman, Amanda Palmer, Gene Wolfe, Frank Miller and a host of Finnish Folk Metal.
 image: mary-kelly.png
 caption: I slowly and painfully remove the marks of binding I had once carved into my body…
 ---
@@ -97,7 +96,7 @@ I carve. The blade digs into my flesh just above the florid scar, the intricate 
 
 “You will not do this.”
 
-_But while life does remain, in memoriam I’ll retain..._
+_But while life does remain, in memoriam I’ll retain…_
 
 I grit my teeth. The blade bites, blood pours down my arm. The flesh, the meat, falls back. It slaps wetly against my hand before falling to the floor.
 
