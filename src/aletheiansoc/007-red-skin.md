@@ -68,10 +68,9 @@ At noon, I returned to join Mrs Evans and the others for lunch—more beef, brea
 
 “What on earth is the matter?” I asked Mrs Evans, who turned a face white with alarm towards me.
 
-“A bear,” she said. There was an uneasy look in her eyes
+“A bear,” she said. There was an uneasy look in her eyes.
 
-
-    “A bear? In the village?” I asked.
+“A bear? In the village?” I asked.
 
 She shook her head. “No, Miss Bird. Up by Black Canyon.”
 

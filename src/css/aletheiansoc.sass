@@ -48,13 +48,13 @@ $fontMargins: 11pt "Playfair Display"
 		content: normal
 
 
-$chapters: "6", "10", "20", "44", "68", "84", "110", "136", "170"
-
-@each $chapter in $chapters
-	@page :nth(#{$chapter})
-		@top
-			content: normal
-
+//$chapters: "6", "10", "20", "44", "68", "84", "110", "136", "170"
+//
+//@each $chapter in $chapters
+//	@page :nth(#{$chapter})
+//		@top
+//			content: normal
+//
 
 // general styles
 body
@@ -78,6 +78,7 @@ h2
 	text-align: center
 
 h4
+	//break-before: page
 	margin-bottom: 0.5em
 	text-decoration: underline
 
@@ -205,7 +206,7 @@ div.front-matter, header, figure
 
 div.story
 	page: story
-	break-before: left
+	break-before: right
 
 .back-matter
 	break-before: left
@@ -302,6 +303,7 @@ div.story
 	blockquote
 		margin-left: 0
 		margin-top: 2em
+		margin-bottom: 0
 
 		&:not(:first-of-type)+p:first-letter
 			font-size: 12pt

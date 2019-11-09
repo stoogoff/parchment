@@ -27,16 +27,16 @@
 
 {{#each aletheiansoc-stories}}
 	<div id="{{makeId title}}" class="story">
+		<header>
+			<h1>{{{ title }}}</h1>
+			<h2>{{{ author }}}</h2>
+		</header>
 		{{#if image}}
 			<figure>
 				<img src="img/{{ image }}" alt="{{ title }}" />
 				<figcaption>{{ caption }}</figcaption>
 			</figure>
 		{{/if}}
-		<header>
-			<h1>{{{ title }}}</h1>
-			<h2>{{{ author }}}</h2>
-		</header>
 		<article>
 			{{{ originalContents }}}
 		</article>
