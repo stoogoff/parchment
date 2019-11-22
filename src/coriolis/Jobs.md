@@ -14,6 +14,4 @@ Private military contractors required. **4 CRED** payment. Contact through **Fre
 
 **NimaBionics** seeks people with the "Mystic's Disease", commonly known as the "Blight", for non-invasive genetic testing. **2 CRED** payment per person. Contact through offices at **Mahanji Oasis**, **Lubau**.
 
-**Zenithian Hegemony** requires bounty hunters for in-system job. **6 CRED** payment for the capture of **Aja Astir**. Contact through offices on **The Monolith**.
-
 **The Foundation** seeks crew to track missing outer-system research vessel. **4 CRED** payment for retrieving information, **6 CRED** for retrieving the ship or expedition leader **Professor Siyab Dahiljaba**. Contact through offices on **Coriolis Station**.
