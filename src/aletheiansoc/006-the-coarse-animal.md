@@ -2,7 +2,7 @@
 title: The Coarse Animal
 collection: aletheiansoc-stories
 sort: 6
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 author: Simeon Ewing
 image: coarse-animal.png
 caption: The flying mass above swarmed and wheeled and finally dived at the kneeling figure.

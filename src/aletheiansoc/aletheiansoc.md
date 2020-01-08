@@ -1,3 +1,3 @@
 ---
-template: tpl/aletheiansoc/print.html
+template: tpl/print.html
 ---

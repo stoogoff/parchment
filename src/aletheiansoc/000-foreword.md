@@ -3,7 +3,7 @@ title: Foreword
 author: Dr Hieronymus Cadwallader
 sort: 0
 collection: aletheiansoc-stories
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 ---
 
 As a rule I’m not much for yarns; when one has lived a life so positively chock-full of adventure as I have, one hardly needs to be regaled with fictional accounts in order to conjure up images of the dreadful and gingery variety.  However, when the Tribune first asked me to contribute to this book, I took it upon myself to distill down a lifetime’s wisdom and experience into a modest entry of slightly more than eight hundred pages.  Congratulating myself on a job well-done, I sat back, poured myself a brandy and waited for the royalty monies to roll in.

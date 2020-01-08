@@ -2,7 +2,7 @@
 title: Escape Room
 collection: aletheiansoc-stories
 sort: 2
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 author: Iain King
 image: escape-room.png
 caption: …the most compelling little effigy…

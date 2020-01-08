@@ -2,7 +2,7 @@
 title: Brighton Baroque
 collection: aletheiansoc-stories
 sort: 3
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 author: Liam Spinage
 image: brighton-baroque.png
 caption: Not just a gull. A harbinger of ill omen…

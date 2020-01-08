@@ -1,6 +1,6 @@
 ---
 title: Factions
-template: tpl/coriolis-factions.html
+template: tpl/factions.html
 factions:
   -
     title: The Agony

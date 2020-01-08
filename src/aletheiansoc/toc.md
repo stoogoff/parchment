@@ -1,5 +1,5 @@
 ---
-template: tpl/aletheiansoc/toc.ncx
+template: tpl/toc.ncx
 ---
 
 toc.ncx

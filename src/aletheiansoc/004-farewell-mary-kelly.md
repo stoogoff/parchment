@@ -2,7 +2,7 @@
 title: Farewell Mary Kelly
 collection: aletheiansoc-stories
 sort: 4
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 author: Stoo Goff
 image: mary-kelly.png
 caption: I slowly and painfully remove the marks of binding I had once carved into my body…

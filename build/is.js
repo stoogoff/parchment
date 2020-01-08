@@ -26,6 +26,14 @@ module.exports = {
 	},
 
 	ext(filePath, extension) {
-		return path.extname(filePath) == extension;
+		extension = extension.split(",");
+
+		for(let i = 0, len = extension.length; i < len; ++i) {
+			if(path.extname(filePath) == extension[i]) {
+				return true;
+			}
+		}
+
+		return false;
 	}
 };

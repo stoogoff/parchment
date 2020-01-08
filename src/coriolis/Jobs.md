@@ -2,16 +2,12 @@
 title: Job Postings
 ---
 
-Private military contractors required. **4 CRED** payment. Contact through **Free League** hub office on the **Monolith**.
+**The Bulletin** seeks any information regarding the signal blackout around **Xene**. **4-8 CRED** payment depending on information received. Contact through your local **Bulletin** office.
 
-**Colonial Agency** seeks crew for pest control. **6 CRED** payment. Contact through offices on station **CA-176**, **Xene orbit**.
+**The Bulletin** seeks any information regarding the catastrophe at **Aram's Ravine** on **Jina**. **2-4 CRED** payment depending on information received. Contact through your local **Bulletin** office.
+
+Wanted: known terrorist **Aja Astir**. Last seen on the **Monolith**. **2--4 CRED** payment for information leading to capture or death. Contact through your local authority for more information.
+
+**The Bulletin** seeks information on the attack and destruction of Hegemonic Patrol Vessels **Wayfinder**, **Gallant**, and **Moth**. **2 CRED** payment for anyone with sensor data or information regarding unidentified **Shadhavar** class assault vessel. Contact through your local **Bulletin** office.
 
 **Zenithian Hegemony** seeks crew to track down members of terrorist cell located primarily within **The Belt**. **2 CRED** payment per cell leader brought in alive. Contact through your local authority for more information.
-
-**Under the Lotus Art Supplies** seeks discrete, private, transport to the **Odacon System**. **6 CRED** payment. Contact through offices on **Coriolis**.
-
-**The Bulletin** seeks any information regarding the whereabouts of renowned singer **Nommi Ast**. **2-4 CRED** payment depending on information received. Contact through your local **Bulletin** office.
-
-**NimaBionics** seeks people with the "Mystic's Disease", commonly known as the "Blight", for non-invasive genetic testing. **2 CRED** payment per person. Contact through offices at **Mahanji Oasis**, **Lubau**.
-
-**The Foundation** seeks crew to track missing outer-system research vessel. **4 CRED** payment for retrieving information, **6 CRED** for retrieving the ship or expedition leader **Professor Siyab Dahiljaba**. Contact through offices on **Coriolis Station**.

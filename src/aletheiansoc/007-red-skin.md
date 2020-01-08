@@ -2,7 +2,7 @@
 title: Red Skin
 collection: aletheiansoc-stories
 sort: 7
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 author: Jude Reid
 image: red-skin.png
 caption: I saw first a bare, bloody arm break the surface, then a moment later the hideous, elongated, skinned head…

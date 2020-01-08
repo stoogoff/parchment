@@ -1,5 +1,5 @@
 ---
-template: tpl/aletheiansoc/content.opf
+template: tpl/content.opf
 ---
 
 content.opf

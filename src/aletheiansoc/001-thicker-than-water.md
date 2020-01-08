@@ -2,7 +2,7 @@
 title: Thicker Than Water
 collection: aletheiansoc-stories
 sort: 1
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 author: Christopher Edwards
 image: thicker-than-water.png
 caption: …her eyes rolled back in her head, sheets of faintly glowing greenish-white material running from her mouth…

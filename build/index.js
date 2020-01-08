@@ -15,7 +15,7 @@ const is = require("./is");
 const hb = require("./hb");
 const collections = require("./collections");
 
-
+const EXCLUDE = require("./exclude.json");
 const DESTINATION = "../dist";
 const DESTINATION_PATH = path.join(__dirname, DESTINATION);
 
@@ -28,11 +28,17 @@ module.exports = Metalsmith(__dirname)
 	.use(drafts())
 	.use(collections())
 
-	// add template file based on containing folder
 	.use(each((file, p) => {
+		const folder = getTarget(p);
+
+		// add template file based on containing folder
 		if(!file.template) {
-			file.template = path.join("tpl", p.substring(0, p.lastIndexOf("/"))) + ".html";
+			file.template = path.join("tpl", "index.html");
 		}
+
+		// prefix directory with containing folder
+		file.template = path.join(folder, file.template);
+
 	}, ".md"))
 
 	// convert from markdown to html
@@ -43,27 +49,18 @@ module.exports = Metalsmith(__dirname)
 		xhtml: true
 	}))
 	.use(sass({
-		outputStyle: "expanded",
-		outputDir: "css/"
+		outputStyle: "expanded"
 	}))
 	.use(hb())
 
 	// remove template files
 	.use(each((file, p, files) => {
-		if(p.startsWith("tpl")) {
+		const folder = path.join(getTarget(p), "tpl");
+
+		if(p.startsWith(folder)) {
 			delete files[p];
 		}
-	}, ".html"))
-
-	// remove directory
-	.use(each((file, p, files) => {
-		let newPath = p.replace("/", "~");
-
-		files[newPath] = files[p];
-
-		delete files[p];
-
-	}, ".html"))
+	}))
 
 	.build(err => {
 		if(err) {
@@ -72,41 +69,33 @@ module.exports = Metalsmith(__dirname)
 		else {
 			console.log("Writing:");
 
-			const COPY_TARGET = path.join(__dirname, "../stuff/aletheiansoc/OEBPS");
-
-			fs.readdirSync(DESTINATION_PATH).forEach(file => {
-				const target = makeTargetDir(file.replace(".html", ".pdf"));
-
-				exec(`prince dist/${file} -o ${target}`, () => console.log(`* ${target}`));
-
-				// aletheiansoc specific
-				if(file.startsWith("aletheiansoc~")) {
-					let source = path.join(DESTINATION_PATH, file); 
-					let dest = path.join(COPY_TARGET, file.replace("aletheiansoc~", ""));
-
-					dest = dest.replace("toc.html", "toc.ncx").replace("content.html", "content.opf");
-
-					if(!dest.endsWith("aletheiansoc.html") && !dest.endsWith("blurb.html")) {
-						fs.copyFile(source, dest, (err) => {
-							if(err) {
-								console.error(err);
-							}
-						});
-					}
+			fs.readdirSync(DESTINATION_PATH, { withFileTypes: true }).filter(dirent => dirent.isDirectory()).map(dirent => dirent.name).forEach(folder => {
+				// skip if it's in the exclude list
+				if(EXCLUDE.indexOf(folder) != -1) {
+					return;
 				}
+
+				fs.readdirSync(path.join(DESTINATION_PATH, folder), { withFileTypes: true }).filter(dirent => !dirent.isDirectory()).map(dirent => dirent.name).forEach(file => {
+					const source = path.join("dist", folder, file);
+					const target = path.join(makeTargetDir(folder), file.replace(".html", ".pdf"));
+
+					exec(`prince ${source} -o ${target}`, () => console.log(`* ${target}`));
+				});
 			});
 		}
 	});
 
+function getTarget(target) {
+	return target.substring(0, target.indexOf("/"));
+}
+
 
 function makeTargetDir(target) {
-	target = target.split("~");
-
-	const dir = `pdf/${target[0]}`;
+	const dir = path.join("pdf", target);
 
 	if(!fs.existsSync(dir)) {
 		fs.mkdirSync(dir);
 	}
 
-	return dir + "/" + target[1];
+	return dir;
 }

@@ -2,7 +2,7 @@
 title: Transplant
 collection: aletheiansoc-stories
 sort: 5
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 author: Claire Hamilton Russell
 image: transplant.png
 caption: There wis a wee boy standin watchin me, no mair than five or six.

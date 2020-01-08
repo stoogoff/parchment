@@ -2,7 +2,7 @@
 title: The Tale of Petherham Hall
 collection: aletheiansoc-stories
 sort: 8
-template: tpl/aletheiansoc/main.html
+template: tpl/main.html
 author: Andy Rafferty
 image: petherham-hall.png
 caption: “Come to me, man,” it said quietly, its voice dripping with salacious invitation…
