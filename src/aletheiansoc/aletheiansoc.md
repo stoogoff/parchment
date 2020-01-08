@@ -1,3 +1,0 @@
----
-template: tpl/print.html
----
