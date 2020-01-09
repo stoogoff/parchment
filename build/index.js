@@ -6,7 +6,7 @@ const path = require("path");
 const { exec } = require("child_process");
 
 const Metalsmith = require("metalsmith");
-const markdown = require("metalsmith-markdown");
+const markdown = require("./markdown");
 const drafts = require("metalsmith-drafts");
 const sass = require("metalsmith-sass");
 
@@ -21,33 +21,40 @@ const DESTINATION_PATH = path.join(__dirname, DESTINATION);
 
 
 // setup Metalsmith and run
-module.exports = Metalsmith(__dirname)
+Metalsmith(__dirname)
 	.source("../src")
 	.destination(DESTINATION)
 
 	.use(drafts())
+
+	// don't process any files in the exclude list
+	.use(each((file, p, files) => {
+		const target = getTarget(p);
+
+		if(EXCLUDE.indexOf(target) != -1) {
+			delete files[p];
+		}
+	}))
 	.use(collections())
 
-	.use(each((file, p) => {
-		const folder = getTarget(p);
-
-		// add template file based on containing folder
-		if(!file.template) {
-			file.template = path.join("tpl", "index.html");
+	.use(each((file, p, files) => {
+		// prefix template directory with containing folder
+		if(file.template) {
+			file.template = path.join(getTarget(p), file.template);
 		}
-
-		// prefix directory with containing folder
-		file.template = path.join(folder, file.template);
-
 	}, ".md"))
 
 	// convert from markdown to html
-	.use(markdown({
-		smartypants: true,
-		gfm: true,
-		tables: true,
-		xhtml: true
-	}))
+	.use(each((file, p, files) => {
+		let filename = p.replace(".md", ".html");
+
+		file.contents = Buffer.from(markdown(file.contents.toString()));
+
+		delete files[p];
+
+		files[filename] = file;
+
+	}, ".md"))
 	.use(sass({
 		outputStyle: "expanded"
 	}))
@@ -62,6 +69,13 @@ module.exports = Metalsmith(__dirname)
 		}
 	}))
 
+	// remove html files which don't have a template
+	.use(each((file, p, files) => {
+		if(!file.template) {
+			delete files[p];
+		}
+	}, ".html"))
+
 	.build(err => {
 		if(err) {
 			console.error(err);
@@ -70,11 +84,6 @@ module.exports = Metalsmith(__dirname)
 			console.log("Writing:");
 
 			fs.readdirSync(DESTINATION_PATH, { withFileTypes: true }).filter(dirent => dirent.isDirectory()).map(dirent => dirent.name).forEach(folder => {
-				// skip if it's in the exclude list
-				if(EXCLUDE.indexOf(folder) != -1) {
-					return;
-				}
-
 				fs.readdirSync(path.join(DESTINATION_PATH, folder), { withFileTypes: true }).filter(dirent => !dirent.isDirectory()).map(dirent => dirent.name).forEach(file => {
 					const source = path.join("dist", folder, file);
 					const target = path.join(makeTargetDir(folder), file.replace(".html", ".pdf"));

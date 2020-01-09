@@ -4,10 +4,10 @@
 const path = require("path");
 const fs = require("fs");
 
-const marked = require("marked");
 const Handlebars = require("handlebars");
 const each = require("./each");
 const id = require("./utils").id;
+const markdown = require("./markdown");
 
 
 // register helpers
@@ -44,12 +44,7 @@ Handlebars.registerHelper("range", (count, options) => {
 });
 
 Handlebars.registerHelper("markdown", text => {
-	return marked(text.toString(), {
-		smartypants: true,
-		gfm: true,
-		tables: true,
-		xhtml: true
-	});
+	return markdown(text.toString());
 });
 
 // store templates
