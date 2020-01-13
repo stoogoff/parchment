@@ -8,8 +8,8 @@ let open = false;
 
 renderer.heading = (text, level) => {
 	const heading = `h${level}`;
-	const id = heading + "-" + utils.id(text);
-	const result = []
+	const PATTERN = /{([^}]+)}/;
+	const result = [];
 
 	if(open) {
 		result.push("\n</div>");
@@ -17,7 +17,31 @@ renderer.heading = (text, level) => {
 
 	open = true;
 
-	result.push(`<div id="${id}"><${heading}>${text}</${heading}>`);
+	let hash = {};
+
+	if(PATTERN.test(text)) {
+		text.match(PATTERN)[1].trim().split(" ").forEach(attr => {
+			if(attr.startsWith("#")) {
+				hash["id"] = attr.replace("#", "");
+			}
+			else if(attr.startsWith(".")) {
+				hash["class"] = hash["class"] || [];
+				hash["class"].push(attr.replace(".", ""));
+			}
+		});
+
+		text = text.replace(PATTERN, "").trim();
+	}
+
+	// add hash to ID after attr checks as the heading might have a class but no ID,
+	// in which case the class will be part of the ID
+	if(!("id" in hash)) {
+		hash["id"] = heading + "-" + utils.id(text);
+	}
+
+	let attrs = Object.keys(hash).map(attr => `${attr}="${Array.isArray(hash[attr]) ? hash[attr].join(" ") : hash[attr]}"`).join(" ");
+
+	result.push(`<div ${attrs}><${heading}>${text}</${heading}>`);
 
 	return result.join("\n");
 };
