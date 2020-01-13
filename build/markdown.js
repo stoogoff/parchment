@@ -49,7 +49,8 @@ renderer.image = (href, title, text) => {
 
 	// if text is provided return the image wrapped in a figure with a caption
 	return "<figure>" + result + `<figcaption>${text}</figcaption></figure>`;
-}
+};
+
 
 const SETTINGS = {
 	smartypants: true,

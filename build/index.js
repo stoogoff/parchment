@@ -55,6 +55,23 @@ Metalsmith(__dirname)
 		files[filename] = file;
 
 	}, ".md"))
+
+	// custom post process for each project
+	.use(each((file, p, files) => {
+		if(p.endsWith("post-markdown.js")) {
+			const folder = getTarget(p);
+			const post = require(path.join("../src", p));
+
+			Object.keys(files).forEach(p2 => {
+				if(is.ext(p2, ".html") && getTarget(p2) == folder) {
+					files[p2].contents = post(files[p2]);
+				}
+			});
+
+			delete files[p];
+		}
+	}, ".js"))
+
 	.use(sass({
 		outputStyle: "expanded"
 	}))
