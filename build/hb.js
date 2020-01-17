@@ -47,6 +47,10 @@ Handlebars.registerHelper("markdown", text => {
 	return markdown(text.toString());
 });
 
+Handlebars.registerHelper("markdown-nop", text => {
+	return markdown(text.toString()).replace("<p>", "").replace("</p>", "").trim();
+});
+
 // store templates
 let templates = {};
 

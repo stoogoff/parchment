@@ -5,10 +5,10 @@ const utils = require("./utils");
 
 let renderer = new marked.Renderer();
 let open = false;
+const PATTERN = /{([^}]+)}/;
 
 renderer.heading = (text, level) => {
 	const heading = `h${level}`;
-	const PATTERN = /{([^}]+)}/;
 	const result = [];
 
 	if(open) {
@@ -20,16 +20,7 @@ renderer.heading = (text, level) => {
 	let hash = {};
 
 	if(PATTERN.test(text)) {
-		text.match(PATTERN)[1].trim().split(" ").forEach(attr => {
-			if(attr.startsWith("#")) {
-				hash["id"] = attr.replace("#", "");
-			}
-			else if(attr.startsWith(".")) {
-				hash["class"] = hash["class"] || [];
-				hash["class"].push(attr.replace(".", ""));
-			}
-		});
-
+		hash = createAttrs(text);
 		text = text.replace(PATTERN, "").trim();
 	}
 
@@ -39,7 +30,7 @@ renderer.heading = (text, level) => {
 		hash["id"] = heading + "-" + utils.id(text);
 	}
 
-	let attrs = Object.keys(hash).map(attr => `${attr}="${Array.isArray(hash[attr]) ? hash[attr].join(" ") : hash[attr]}"`).join(" ");
+	let attrs = attrsToString(hash);
 
 	result.push(`<div ${attrs}><${heading}>${text}</${heading}>`);
 
@@ -75,6 +66,42 @@ renderer.image = (href, title, text) => {
 	return "<figure>" + result + `<figcaption>${text}</figcaption></figure>`;
 };
 
+renderer.blockquote = (quote) => {
+	// check the first line to see if it contains the attribute delimiter {}
+	let [first, ...lines] = quote.split("\n");
+	let hash = {};
+
+	if(PATTERN.test(first)) {
+		hash = createAttrs(first);
+		quote = lines.join("\n");
+	}
+
+	let attrs = attrsToString(hash);
+
+	return `<blockquote ${attrs}>\n${quote}</blockquote>\n`;
+};
+
+// convert a hash to HTML attribute format
+const attrsToString = (hash) => {
+	return Object.keys(hash).map(attr => `${attr}="${Array.isArray(hash[attr]) ? hash[attr].join(" ") : hash[attr]}"`).join(" ");
+};
+
+// convert the {} delimited text to hash of id and class names
+const createAttrs = (text) => {
+	let hash = {};
+
+	text.match(PATTERN)[1].trim().split(" ").forEach(attr => {
+		if(attr.startsWith("#")) {
+			hash["id"] = attr.replace("#", "");
+		}
+		else if(attr.startsWith(".")) {
+			hash["class"] = hash["class"] || [];
+			hash["class"].push(attr.replace(".", ""));
+		}
+	});
+
+	return hash;
+};
 
 const SETTINGS = {
 	smartypants: true,
