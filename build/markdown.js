@@ -30,6 +30,12 @@ renderer.heading = (text, level) => {
 		hash["id"] = heading + "-" + utils.id(text);
 	}
 
+	if(!("class" in hash)) {
+		hash["class"] = [];
+	}
+
+	hash["class"].push(heading + "-container");
+
 	let attrs = attrsToString(hash);
 
 	result.push(`<div ${attrs}><${heading}>${text}</${heading}>`);
