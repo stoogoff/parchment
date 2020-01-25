@@ -3,10 +3,39 @@
 const marked = require("marked");
 const utils = require("./utils");
 
-let renderer = new marked.Renderer();
-let open = false;
+// regex pattern for matching id and class name blocks, these are always in the form:
+// { #newId .className1 .className2 }
 const PATTERN = /{([^}]+)}/;
 
+// regex pattern for matching multiple empty th
+const EMPTY_TH = /<th><\/th>/g;
+
+// tracking opening and closing state for wrapping container divs around headings
+let open = false;
+
+// create a renderer and override its methods
+let renderer = new marked.Renderer();
+
+// store some existing methods for later reuse
+const image = renderer.image.bind(renderer);
+const table = renderer.table.bind(renderer);
+const tablerow = renderer.tablerow.bind(renderer);
+
+
+// override headings to wrap their content in a div so the output is...
+// <div id="h3-title" class="h3-container container">
+//    <h3>Title</h3>
+//    ... rest of content...
+// </div>
+// heading IDs default to
+//   h{level}-{text}
+// where utils.id is used to strip text of spaces and other inappropriate characters
+// heading class names always add
+//   container
+//   h{level}-container
+// IDs can be overwritten in the form { #newId }
+// class names can be added to (but not replace) in the form { .newClass1 .newClass 2 }
+// these can be combined { #newId .newClass1 .newClass 2 }
 renderer.heading = (text, level) => {
 	const heading = `h${level}`;
 	const result = [];
@@ -44,12 +73,17 @@ renderer.heading = (text, level) => {
 	return result.join("\n");
 };
 
+
+// override link add the class no-page if the target is external to the document
+// this is verified by checking if the target starts with a hash
 renderer.link = (href, title, text) => {
 	let noPage = href.startsWith("#") ? "" : ' class="no-page"';
 
 	return `<a href="${href}"${noPage}>${text}</a>`;
 };
 
+
+// override paragraph to not wrap img and figure tags with p tags
 renderer.paragraph = (text) => {
 	// the paragraph only contains an image tag or starts with a figure just return the tag
 	if(/^<img[^>]+>$/.test(text) || text.startsWith("<figure>")) {
@@ -59,22 +93,50 @@ renderer.paragraph = (text) => {
 	return `<p>${text}</p>\n`;
 };
 
-let image = renderer.image.bind(renderer);
 
-renderer.image = (href, title, text) => {
-	let result = image(href, title, text);
+// override blockquote to allow an ID and class names to be specified in the first line
+// > { #newId .className1 .className2 }
+// > ...text...
+renderer.blockquote = (quote) => {
+	// check the first line to see if it contains the attribute delimiter {}
+	let [first, ...lines] = quote.split("\n");
+	let hash = {};
 
-	// if no text is provided return the image
-	if(text == "") {
+	if(PATTERN.test(first)) {
+		hash = createAttrs(first);
+		quote = "<p>" + lines.join("\n");
+	}
+
+	let attrs = attrsToString(hash);
+
+	return `<blockquote ${attrs}>\n${quote}</blockquote>\n`;
+};
+
+
+// override image use a figure and figcaption for alt text
+// if alt text is supplied the output is:
+// <figure>
+//   <img src="{href}" alt="{alt}" title="{title}" />
+//   <figcaption>{alt}</figcaption>
+// </figure>
+// it would be better to use the title for this purpose but the alt text isn't used in a PDF
+// and the syntax for alt is simpler
+// if no alt text is provided then the following is returned:
+// <img src="{href}" title="{title}" />
+renderer.image = (href, title, alt) => {
+	let result = image(href, title, alt);
+
+	// if no alt text is provided return the image
+	if(alt == "") {
 		return result;
 	}
 
-	// if text is provided return the image wrapped in a figure with a caption
-	return "<figure>" + result + `<figcaption>${text}</figcaption></figure>`;
+	// if alt text is provided return the image wrapped in a figure with a caption
+	return "<figure>" + result + `<figcaption>${alt}</figcaption></figure>`;
 };
 
-let table = renderer.table.bind(renderer);
 
+// override table to close a heading div if one is open
 renderer.table = (header, body) => {
 	const result = [];
 
@@ -88,27 +150,35 @@ renderer.table = (header, body) => {
 	return result.join("\n");
 };
 
-renderer.blockquote = (quote) => {
-	// check the first line to see if it contains the attribute delimiter {}
-	let [first, ...lines] = quote.split("\n");
-	let hash = {};
 
-	if(PATTERN.test(first)) {
-		hash = createAttrs(first);
-		quote = lines.join("\n");
+// override tablewor to remove multiple empty th
+// if empty th are found a colspan is added to the first remaining th
+// this is very primitive...
+renderer.tablerow = (content) => {
+	let match = content.match(EMPTY_TH);
+
+	if(match) {
+		content = content.replace(EMPTY_TH, "").replace("<th>", `<th colspan="${match.length + 1}">`);
 	}
 
-	let attrs = attrsToString(hash);
-
-	return `<blockquote ${attrs}>\n${quote}</blockquote>\n`;
+	return tablerow(content);
 };
 
+
+// helper functions
+
 // convert a hash to HTML attribute format
+// the hash format looks like this:
+// hash["attrName1"] = "string value";
+// hash["attrName2"] = ["array", "of", "string", "values"];
 const attrsToString = (hash) => {
 	return Object.keys(hash).map(attr => `${attr}="${Array.isArray(hash[attr]) ? hash[attr].join(" ") : hash[attr]}"`).join(" ");
 };
 
+
 // convert the {} delimited text to hash of id and class names
+// matched text is in the format:
+// { #newId .className1 .className2 }
 const createAttrs = (text) => {
 	let hash = {};
 
@@ -125,6 +195,8 @@ const createAttrs = (text) => {
 	return hash;
 };
 
+
+// marked settings
 const SETTINGS = {
 	smartypants: true,
 	gfm: true,
