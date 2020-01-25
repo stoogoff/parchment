@@ -35,6 +35,7 @@ renderer.heading = (text, level) => {
 	}
 
 	hash["class"].push(heading + "-container");
+	hash["class"].push("container");
 
 	let attrs = attrsToString(hash);
 
@@ -70,6 +71,21 @@ renderer.image = (href, title, text) => {
 
 	// if text is provided return the image wrapped in a figure with a caption
 	return "<figure>" + result + `<figcaption>${text}</figcaption></figure>`;
+};
+
+let table = renderer.table.bind(renderer);
+
+renderer.table = (header, body) => {
+	const result = [];
+
+	if(open) {
+		result.push("\n</div>");
+		open = false;
+	}
+
+	result.push(table(header, body));
+
+	return result.join("\n");
 };
 
 renderer.blockquote = (quote) => {
