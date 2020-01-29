@@ -8,7 +8,7 @@ const utils = require("./utils");
 const PATTERN = /{([^}]+)}/;
 
 // regex pattern for matching multiple empty th
-const EMPTY_TH = /<th><\/th>/g;
+const EMPTY_CELL = /<t[hd]><\/t[hd]>/g;
 
 // tracking opening and closing state for wrapping container divs around headings
 let open = false;
@@ -151,17 +151,27 @@ renderer.table = (header, body) => {
 };
 
 
-// override tablewor to remove multiple empty th
-// if empty th are found a colspan is added to the first remaining th
-// this is very primitive...
+// override tablerow to remove multiple empty th
+// if empty th are found a colspan is added to the previous th
+// this is very primitive and likely to break...
 renderer.tablerow = (content) => {
-	let match = content.match(EMPTY_TH);
 
-	if(match) {
-		content = content.replace(EMPTY_TH, "").replace("<th>", `<th colspan="${match.length + 1}">`);
-	}
+	let cells = content.split("\n");
 
-	return tablerow(content);
+	cells.forEach((cell, idx) => {
+		// ignore first empty cell
+		if(idx == 0) {
+			return;
+		}
+
+		let match = cell.match(EMPTY_CELL);
+		if(match) {
+			cells[idx] = "";
+			cells[idx - 1] = cells[idx - 1].replace("<th>", '<th colspan="2">');
+		}
+	})
+
+	return tablerow(cells.join("\n"));
 };
 
 
