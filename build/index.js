@@ -15,7 +15,7 @@ const is = require("./is");
 const hb = require("./hb");
 const collections = require("./collections");
 
-const EXCLUDE = require("./exclude.json");
+const INCLUDE = require("./include.json");
 const DESTINATION = "../dist";
 const DESTINATION_PATH = path.join(__dirname, DESTINATION);
 
@@ -27,11 +27,11 @@ Metalsmith(__dirname)
 
 	.use(drafts())
 
-	// don't process any files in the exclude list
+	// only process files where the parent folder is in the include list
 	.use(each((file, p, files) => {
 		const target = getTarget(p);
 
-		if(EXCLUDE.indexOf(target) != -1) {
+		if(INCLUDE.indexOf(target) == -1) {
 			delete files[p];
 		}
 	}))

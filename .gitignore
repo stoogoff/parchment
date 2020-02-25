@@ -6,4 +6,4 @@ stuff/*
 src/*
 package-lock.json
 .DS_Store
-build/exclude.json
+build/include.json
