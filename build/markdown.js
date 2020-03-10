@@ -137,6 +137,7 @@ renderer.image = (href, title, alt) => {
 
 
 // override table to close a heading div if one is open
+// this also wraps the table in <div class="table"></div>
 renderer.table = (header, body) => {
 	const result = [];
 
@@ -145,7 +146,9 @@ renderer.table = (header, body) => {
 		open = false;
 	}
 
+	result.push("<div class='table'>");
 	result.push(table(header, body));
+	result.push("</div>");
 
 	return result.join("\n");
 };
