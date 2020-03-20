@@ -105,7 +105,7 @@ Metalsmith(__dirname)
 					const source = path.join("dist", folder, file);
 					const target = path.join(makeTargetDir(folder), file.replace(".html", ".pdf"));
 
-					exec(`prince ${source} -o ${target}`, () => console.log(`* ${target}`));
+					exec(`prince "${source}" -o "${target}"`, () => console.log(`* ${target}`));
 				});
 			});
 		}
