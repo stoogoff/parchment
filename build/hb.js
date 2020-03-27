@@ -16,7 +16,7 @@ Handlebars.registerHelper("makeId", context => {
 });
 
 Handlebars.registerHelper("contains", (container, item, options) => {
-	if(container.indexOf && container.indexOf(item) != -1) {
+	if((Array.isArray(container) && container.indexOf && container.indexOf(item) != -1) || (item in container)) {
 		return options.fn(this);
 	}
 	else {
@@ -35,12 +35,41 @@ Handlebars.registerHelper("is", (property, value, options) => {
 
 Handlebars.registerHelper("range", (count, options) => {
 	let buffer = [];
+	let data;
+
+	if(options.data) {
+		data = Handlebars.createFrame(options.data);
+	}
 
 	for(let i = 0; i < count; ++i) {
-		buffer.push(options.fn(this));
+		if(data) {
+			data.index = i;
+		}
+
+		buffer.push(options.fn(this, { data: data }));
 	}
 
 	return buffer.join("");
+});
+
+Handlebars.registerHelper("eq", (val1, val2) => {
+	return val1 === val2;
+});
+
+Handlebars.registerHelper("lt", (val1, val2) => {
+	return val1 < val2;
+});
+
+Handlebars.registerHelper("lte", (val1, val2) => {
+	return val1 <= val2;
+});
+
+Handlebars.registerHelper("gt", (val1, val2) => {
+	return val1 > val2;
+});
+
+Handlebars.registerHelper("gte", (val1, val2) => {
+	return val1 >= val2;
 });
 
 Handlebars.registerHelper("markdown", text => {
